@@ -1,0 +1,6199 @@
+[
+  {
+    "_rid": 0,
+    "Id": "InverseWeighting3",
+    "BlightCraftingItemsKeys": [
+      3,
+      3,
+      3
+    ],
+    "BlightCraftingResultsKey": 0,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 1,
+    "Id": "InverseWeighting4",
+    "BlightCraftingItemsKeys": [
+      3,
+      3,
+      4
+    ],
+    "BlightCraftingResultsKey": 1,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 2,
+    "Id": "InverseWeighting5",
+    "BlightCraftingItemsKeys": [
+      3,
+      4,
+      4
+    ],
+    "BlightCraftingResultsKey": 2,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 3,
+    "Id": "InverseWeighting6",
+    "BlightCraftingItemsKeys": [
+      3,
+      3,
+      5
+    ],
+    "BlightCraftingResultsKey": 3,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 4,
+    "Id": "InverseWeighting6_2",
+    "BlightCraftingItemsKeys": [
+      4,
+      4,
+      4
+    ],
+    "BlightCraftingResultsKey": 4,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 5,
+    "Id": "InverseWeighting7",
+    "BlightCraftingItemsKeys": [
+      3,
+      4,
+      5
+    ],
+    "BlightCraftingResultsKey": 5,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 6,
+    "Id": "InverseWeighting8",
+    "BlightCraftingItemsKeys": [
+      3,
+      3,
+      6
+    ],
+    "BlightCraftingResultsKey": 6,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 7,
+    "Id": "InverseWeighting8_2",
+    "BlightCraftingItemsKeys": [
+      4,
+      4,
+      5
+    ],
+    "BlightCraftingResultsKey": 7,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 8,
+    "Id": "InverseWeighting9",
+    "BlightCraftingItemsKeys": [
+      3,
+      4,
+      6
+    ],
+    "BlightCraftingResultsKey": 8,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 9,
+    "Id": "InverseWeighting9_2",
+    "BlightCraftingItemsKeys": [
+      3,
+      5,
+      5
+    ],
+    "BlightCraftingResultsKey": 9,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 10,
+    "Id": "InverseWeighting10",
+    "BlightCraftingItemsKeys": [
+      4,
+      4,
+      6
+    ],
+    "BlightCraftingResultsKey": 10,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 11,
+    "Id": "InverseWeighting10_2",
+    "BlightCraftingItemsKeys": [
+      4,
+      5,
+      5
+    ],
+    "BlightCraftingResultsKey": 11,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 12,
+    "Id": "InverseWeighting11",
+    "BlightCraftingItemsKeys": [
+      3,
+      3,
+      7
+    ],
+    "BlightCraftingResultsKey": 12,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 13,
+    "Id": "InverseWeighting11_2",
+    "BlightCraftingItemsKeys": [
+      3,
+      5,
+      6
+    ],
+    "BlightCraftingResultsKey": 13,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 14,
+    "Id": "InverseWeighting12",
+    "BlightCraftingItemsKeys": [
+      3,
+      4,
+      7
+    ],
+    "BlightCraftingResultsKey": 14,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 15,
+    "Id": "InverseWeighting12_2",
+    "BlightCraftingItemsKeys": [
+      4,
+      5,
+      6
+    ],
+    "BlightCraftingResultsKey": 15,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 16,
+    "Id": "InverseWeighting12_3",
+    "BlightCraftingItemsKeys": [
+      5,
+      5,
+      5
+    ],
+    "BlightCraftingResultsKey": 16,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 17,
+    "Id": "InverseWeighting13",
+    "BlightCraftingItemsKeys": [
+      3,
+      6,
+      6
+    ],
+    "BlightCraftingResultsKey": 17,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 18,
+    "Id": "InverseWeighting13_2",
+    "BlightCraftingItemsKeys": [
+      4,
+      4,
+      7
+    ],
+    "BlightCraftingResultsKey": 18,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 19,
+    "Id": "InverseWeighting14",
+    "BlightCraftingItemsKeys": [
+      3,
+      5,
+      7
+    ],
+    "BlightCraftingResultsKey": 19,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 20,
+    "Id": "InverseWeighting14_2",
+    "BlightCraftingItemsKeys": [
+      4,
+      6,
+      6
+    ],
+    "BlightCraftingResultsKey": 20,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 21,
+    "Id": "InverseWeighting14_3",
+    "BlightCraftingItemsKeys": [
+      5,
+      5,
+      6
+    ],
+    "BlightCraftingResultsKey": 21,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 22,
+    "Id": "InverseWeighting15",
+    "BlightCraftingItemsKeys": [
+      4,
+      5,
+      7
+    ],
+    "BlightCraftingResultsKey": 22,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 23,
+    "Id": "InverseWeighting16",
+    "BlightCraftingItemsKeys": [
+      3,
+      3,
+      8
+    ],
+    "BlightCraftingResultsKey": 23,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 24,
+    "Id": "InverseWeighting16_2",
+    "BlightCraftingItemsKeys": [
+      3,
+      6,
+      7
+    ],
+    "BlightCraftingResultsKey": 24,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 25,
+    "Id": "InverseWeighting16_3",
+    "BlightCraftingItemsKeys": [
+      5,
+      6,
+      6
+    ],
+    "BlightCraftingResultsKey": 25,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 26,
+    "Id": "InverseWeighting17",
+    "BlightCraftingItemsKeys": [
+      3,
+      4,
+      8
+    ],
+    "BlightCraftingResultsKey": 26,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 27,
+    "Id": "InverseWeighting17_2",
+    "BlightCraftingItemsKeys": [
+      4,
+      6,
+      7
+    ],
+    "BlightCraftingResultsKey": 27,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 28,
+    "Id": "InverseWeighting17_3",
+    "BlightCraftingItemsKeys": [
+      5,
+      5,
+      7
+    ],
+    "BlightCraftingResultsKey": 28,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 29,
+    "Id": "InverseWeighting18",
+    "BlightCraftingItemsKeys": [
+      4,
+      4,
+      8
+    ],
+    "BlightCraftingResultsKey": 29,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 30,
+    "Id": "InverseWeighting18_2",
+    "BlightCraftingItemsKeys": [
+      6,
+      6,
+      6
+    ],
+    "BlightCraftingResultsKey": 30,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 31,
+    "Id": "InverseWeighting19",
+    "BlightCraftingItemsKeys": [
+      3,
+      5,
+      8
+    ],
+    "BlightCraftingResultsKey": 31,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 32,
+    "Id": "InverseWeighting19_2",
+    "BlightCraftingItemsKeys": [
+      3,
+      7,
+      7
+    ],
+    "BlightCraftingResultsKey": 32,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 33,
+    "Id": "InverseWeighting19_3",
+    "BlightCraftingItemsKeys": [
+      5,
+      6,
+      7
+    ],
+    "BlightCraftingResultsKey": 33,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 34,
+    "Id": "InverseWeighting20",
+    "BlightCraftingItemsKeys": [
+      4,
+      5,
+      8
+    ],
+    "BlightCraftingResultsKey": 34,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 35,
+    "Id": "InverseWeighting20_2",
+    "BlightCraftingItemsKeys": [
+      4,
+      7,
+      7
+    ],
+    "BlightCraftingResultsKey": 35,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 36,
+    "Id": "InverseWeighting20_3",
+    "BlightCraftingItemsKeys": [
+      3,
+      3,
+      9
+    ],
+    "BlightCraftingResultsKey": 36,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 37,
+    "Id": "InverseWeighting21",
+    "BlightCraftingItemsKeys": [
+      3,
+      6,
+      8
+    ],
+    "BlightCraftingResultsKey": 37,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 38,
+    "Id": "InverseWeighting21_2",
+    "BlightCraftingItemsKeys": [
+      6,
+      6,
+      7
+    ],
+    "BlightCraftingResultsKey": 38,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 39,
+    "Id": "InverseWeighting21_3",
+    "BlightCraftingItemsKeys": [
+      3,
+      4,
+      9
+    ],
+    "BlightCraftingResultsKey": 39,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 40,
+    "Id": "InverseWeighting22",
+    "BlightCraftingItemsKeys": [
+      4,
+      6,
+      8
+    ],
+    "BlightCraftingResultsKey": 40,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 41,
+    "Id": "InverseWeighting22_2",
+    "BlightCraftingItemsKeys": [
+      5,
+      5,
+      8
+    ],
+    "BlightCraftingResultsKey": 41,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 42,
+    "Id": "InverseWeighting22_3",
+    "BlightCraftingItemsKeys": [
+      5,
+      7,
+      7
+    ],
+    "BlightCraftingResultsKey": 42,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 43,
+    "Id": "InverseWeighting22_4",
+    "BlightCraftingItemsKeys": [
+      4,
+      4,
+      9
+    ],
+    "BlightCraftingResultsKey": 43,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 44,
+    "Id": "InverseWeighting23",
+    "BlightCraftingItemsKeys": [
+      3,
+      5,
+      9
+    ],
+    "BlightCraftingResultsKey": 44,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 45,
+    "Id": "InverseWeighting24",
+    "BlightCraftingItemsKeys": [
+      3,
+      3,
+      10
+    ],
+    "BlightCraftingResultsKey": 45,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 46,
+    "Id": "InverseWeighting24_2",
+    "BlightCraftingItemsKeys": [
+      3,
+      7,
+      8
+    ],
+    "BlightCraftingResultsKey": 46,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 47,
+    "Id": "InverseWeighting24_3",
+    "BlightCraftingItemsKeys": [
+      5,
+      6,
+      8
+    ],
+    "BlightCraftingResultsKey": 47,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 48,
+    "Id": "InverseWeighting24_4",
+    "BlightCraftingItemsKeys": [
+      6,
+      7,
+      7
+    ],
+    "BlightCraftingResultsKey": 48,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 49,
+    "Id": "InverseWeighting24_5",
+    "BlightCraftingItemsKeys": [
+      4,
+      5,
+      9
+    ],
+    "BlightCraftingResultsKey": 49,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 50,
+    "Id": "InverseWeighting25",
+    "BlightCraftingItemsKeys": [
+      3,
+      4,
+      10
+    ],
+    "BlightCraftingResultsKey": 50,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 51,
+    "Id": "InverseWeighting25_2",
+    "BlightCraftingItemsKeys": [
+      4,
+      7,
+      8
+    ],
+    "BlightCraftingResultsKey": 51,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 52,
+    "Id": "InverseWeighting25_3",
+    "BlightCraftingItemsKeys": [
+      3,
+      6,
+      9
+    ],
+    "BlightCraftingResultsKey": 52,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 53,
+    "Id": "InverseWeighting26",
+    "BlightCraftingItemsKeys": [
+      4,
+      4,
+      10
+    ],
+    "BlightCraftingResultsKey": 53,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 54,
+    "Id": "InverseWeighting26_2",
+    "BlightCraftingItemsKeys": [
+      6,
+      6,
+      8
+    ],
+    "BlightCraftingResultsKey": 54,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 55,
+    "Id": "InverseWeighting26_3",
+    "BlightCraftingItemsKeys": [
+      4,
+      6,
+      9
+    ],
+    "BlightCraftingResultsKey": 55,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 56,
+    "Id": "InverseWeighting26_4",
+    "BlightCraftingItemsKeys": [
+      5,
+      5,
+      9
+    ],
+    "BlightCraftingResultsKey": 56,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 57,
+    "Id": "InverseWeighting27",
+    "BlightCraftingItemsKeys": [
+      3,
+      5,
+      10
+    ],
+    "BlightCraftingResultsKey": 57,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 58,
+    "Id": "InverseWeighting27_2",
+    "BlightCraftingItemsKeys": [
+      5,
+      7,
+      8
+    ],
+    "BlightCraftingResultsKey": 58,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 59,
+    "Id": "InverseWeighting27_3",
+    "BlightCraftingItemsKeys": [
+      7,
+      7,
+      7
+    ],
+    "BlightCraftingResultsKey": 59,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 60,
+    "Id": "InverseWeighting28",
+    "BlightCraftingItemsKeys": [
+      4,
+      5,
+      10
+    ],
+    "BlightCraftingResultsKey": 60,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 61,
+    "Id": "InverseWeighting28_2",
+    "BlightCraftingItemsKeys": [
+      3,
+      7,
+      9
+    ],
+    "BlightCraftingResultsKey": 61,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 62,
+    "Id": "InverseWeighting28_3",
+    "BlightCraftingItemsKeys": [
+      5,
+      6,
+      9
+    ],
+    "BlightCraftingResultsKey": 62,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 63,
+    "Id": "InverseWeighting29",
+    "BlightCraftingItemsKeys": [
+      3,
+      6,
+      10
+    ],
+    "BlightCraftingResultsKey": 63,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 64,
+    "Id": "InverseWeighting29_2",
+    "BlightCraftingItemsKeys": [
+      3,
+      8,
+      8
+    ],
+    "BlightCraftingResultsKey": 64,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 65,
+    "Id": "InverseWeighting29_3",
+    "BlightCraftingItemsKeys": [
+      6,
+      7,
+      8
+    ],
+    "BlightCraftingResultsKey": 65,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 66,
+    "Id": "InverseWeighting29_4",
+    "BlightCraftingItemsKeys": [
+      4,
+      7,
+      9
+    ],
+    "BlightCraftingResultsKey": 66,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 67,
+    "Id": "InverseWeighting30",
+    "BlightCraftingItemsKeys": [
+      4,
+      6,
+      10
+    ],
+    "BlightCraftingResultsKey": 67,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 68,
+    "Id": "InverseWeighting30_2",
+    "BlightCraftingItemsKeys": [
+      4,
+      8,
+      8
+    ],
+    "BlightCraftingResultsKey": 68,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 69,
+    "Id": "InverseWeighting30_3",
+    "BlightCraftingItemsKeys": [
+      5,
+      5,
+      10
+    ],
+    "BlightCraftingResultsKey": 69,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 70,
+    "Id": "InverseWeighting30_4",
+    "BlightCraftingItemsKeys": [
+      6,
+      6,
+      9
+    ],
+    "BlightCraftingResultsKey": 70,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 71,
+    "Id": "InverseWeighting31",
+    "BlightCraftingItemsKeys": [
+      5,
+      7,
+      9
+    ],
+    "BlightCraftingResultsKey": 71,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 72,
+    "Id": "InverseWeighting32",
+    "BlightCraftingItemsKeys": [
+      3,
+      7,
+      10
+    ],
+    "BlightCraftingResultsKey": 72,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 73,
+    "Id": "InverseWeighting32_2",
+    "BlightCraftingItemsKeys": [
+      5,
+      6,
+      10
+    ],
+    "BlightCraftingResultsKey": 73,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 74,
+    "Id": "InverseWeighting32_3",
+    "BlightCraftingItemsKeys": [
+      5,
+      8,
+      8
+    ],
+    "BlightCraftingResultsKey": 74,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 75,
+    "Id": "InverseWeighting32_4",
+    "BlightCraftingItemsKeys": [
+      7,
+      7,
+      8
+    ],
+    "BlightCraftingResultsKey": 75,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 76,
+    "Id": "InverseWeighting33",
+    "BlightCraftingItemsKeys": [
+      4,
+      7,
+      10
+    ],
+    "BlightCraftingResultsKey": 76,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 77,
+    "Id": "InverseWeighting33_2",
+    "BlightCraftingItemsKeys": [
+      6,
+      7,
+      9
+    ],
+    "BlightCraftingResultsKey": 77,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 78,
+    "Id": "InverseWeighting34",
+    "BlightCraftingItemsKeys": [
+      6,
+      6,
+      10
+    ],
+    "BlightCraftingResultsKey": 78,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 79,
+    "Id": "InverseWeighting34_2",
+    "BlightCraftingItemsKeys": [
+      6,
+      8,
+      8
+    ],
+    "BlightCraftingResultsKey": 79,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 80,
+    "Id": "InverseWeighting35",
+    "BlightCraftingItemsKeys": [
+      5,
+      7,
+      10
+    ],
+    "BlightCraftingResultsKey": 80,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 81,
+    "Id": "InverseWeighting36",
+    "BlightCraftingItemsKeys": [
+      7,
+      7,
+      9
+    ],
+    "BlightCraftingResultsKey": 81,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 82,
+    "Id": "InverseWeighting37",
+    "BlightCraftingItemsKeys": [
+      3,
+      8,
+      10
+    ],
+    "BlightCraftingResultsKey": 82,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 83,
+    "Id": "InverseWeighting37_2",
+    "BlightCraftingItemsKeys": [
+      6,
+      7,
+      10
+    ],
+    "BlightCraftingResultsKey": 83,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 84,
+    "Id": "InverseWeighting37_3",
+    "BlightCraftingItemsKeys": [
+      7,
+      8,
+      8
+    ],
+    "BlightCraftingResultsKey": 84,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 85,
+    "Id": "InverseWeighting37_4",
+    "BlightCraftingItemsKeys": [
+      3,
+      9,
+      9
+    ],
+    "BlightCraftingResultsKey": 85,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 86,
+    "Id": "InverseWeighting38",
+    "BlightCraftingItemsKeys": [
+      4,
+      8,
+      10
+    ],
+    "BlightCraftingResultsKey": 86,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 87,
+    "Id": "InverseWeighting38_2",
+    "BlightCraftingItemsKeys": [
+      4,
+      9,
+      9
+    ],
+    "BlightCraftingResultsKey": 87,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 88,
+    "Id": "InverseWeighting40",
+    "BlightCraftingItemsKeys": [
+      5,
+      8,
+      10
+    ],
+    "BlightCraftingResultsKey": 88,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 89,
+    "Id": "InverseWeighting40_2",
+    "BlightCraftingItemsKeys": [
+      7,
+      7,
+      10
+    ],
+    "BlightCraftingResultsKey": 89,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 90,
+    "Id": "InverseWeighting40_3",
+    "BlightCraftingItemsKeys": [
+      5,
+      9,
+      9
+    ],
+    "BlightCraftingResultsKey": 90,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 91,
+    "Id": "InverseWeighting42",
+    "BlightCraftingItemsKeys": [
+      3,
+      3,
+      11
+    ],
+    "BlightCraftingResultsKey": 91,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 92,
+    "Id": "InverseWeighting42_2",
+    "BlightCraftingItemsKeys": [
+      6,
+      8,
+      10
+    ],
+    "BlightCraftingResultsKey": 92,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 93,
+    "Id": "InverseWeighting42_3",
+    "BlightCraftingItemsKeys": [
+      8,
+      8,
+      8
+    ],
+    "BlightCraftingResultsKey": 93,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 94,
+    "Id": "InverseWeighting42_4",
+    "BlightCraftingItemsKeys": [
+      6,
+      9,
+      9
+    ],
+    "BlightCraftingResultsKey": 94,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 95,
+    "Id": "InverseWeighting41",
+    "BlightCraftingItemsKeys": [
+      3,
+      9,
+      10
+    ],
+    "BlightCraftingResultsKey": 95,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 96,
+    "Id": "InverseWeighting43",
+    "BlightCraftingItemsKeys": [
+      3,
+      4,
+      11
+    ],
+    "BlightCraftingResultsKey": 99,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 97,
+    "Id": "InverseWeighting45_4",
+    "BlightCraftingItemsKeys": [
+      7,
+      9,
+      9
+    ],
+    "BlightCraftingResultsKey": 96,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 98,
+    "Id": "InverseWeighting44_2",
+    "BlightCraftingItemsKeys": [
+      5,
+      9,
+      10
+    ],
+    "BlightCraftingResultsKey": 97,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 99,
+    "Id": "InverseWeighting46_3",
+    "BlightCraftingItemsKeys": [
+      6,
+      9,
+      10
+    ],
+    "BlightCraftingResultsKey": 98,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 100,
+    "Id": "InverseWeighting44",
+    "BlightCraftingItemsKeys": [
+      4,
+      4,
+      11
+    ],
+    "BlightCraftingResultsKey": 100,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 101,
+    "Id": "InverseWeighting45",
+    "BlightCraftingItemsKeys": [
+      3,
+      5,
+      11
+    ],
+    "BlightCraftingResultsKey": 101,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 102,
+    "Id": "InverseWeighting45_2",
+    "BlightCraftingItemsKeys": [
+      3,
+      10,
+      10
+    ],
+    "BlightCraftingResultsKey": 102,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 103,
+    "Id": "InverseWeighting45_3",
+    "BlightCraftingItemsKeys": [
+      7,
+      8,
+      10
+    ],
+    "BlightCraftingResultsKey": 103,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 104,
+    "Id": "InverseWeighting46",
+    "BlightCraftingItemsKeys": [
+      4,
+      5,
+      11
+    ],
+    "BlightCraftingResultsKey": 104,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 105,
+    "Id": "InverseWeighting46_2",
+    "BlightCraftingItemsKeys": [
+      4,
+      10,
+      10
+    ],
+    "BlightCraftingResultsKey": 105,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 106,
+    "Id": "InverseWeighting47",
+    "BlightCraftingItemsKeys": [
+      3,
+      6,
+      11
+    ],
+    "BlightCraftingResultsKey": 106,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 107,
+    "Id": "InverseWeighting48",
+    "BlightCraftingItemsKeys": [
+      4,
+      6,
+      11
+    ],
+    "BlightCraftingResultsKey": 107,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 108,
+    "Id": "InverseWeighting48_2",
+    "BlightCraftingItemsKeys": [
+      5,
+      5,
+      11
+    ],
+    "BlightCraftingResultsKey": 108,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 109,
+    "Id": "InverseWeighting48_3",
+    "BlightCraftingItemsKeys": [
+      5,
+      10,
+      10
+    ],
+    "BlightCraftingResultsKey": 109,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 110,
+    "Id": "InverseWeighting49",
+    "BlightCraftingItemsKeys": [
+      7,
+      9,
+      10
+    ],
+    "BlightCraftingResultsKey": 110,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 111,
+    "Id": "InverseWeighting50",
+    "BlightCraftingItemsKeys": [
+      3,
+      7,
+      11
+    ],
+    "BlightCraftingResultsKey": 111,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 112,
+    "Id": "InverseWeighting50_2",
+    "BlightCraftingItemsKeys": [
+      5,
+      6,
+      11
+    ],
+    "BlightCraftingResultsKey": 112,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 113,
+    "Id": "InverseWeighting50_3",
+    "BlightCraftingItemsKeys": [
+      6,
+      10,
+      10
+    ],
+    "BlightCraftingResultsKey": 113,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 114,
+    "Id": "InverseWeighting50_4",
+    "BlightCraftingItemsKeys": [
+      8,
+      8,
+      10
+    ],
+    "BlightCraftingResultsKey": 114,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 115,
+    "Id": "InverseWeighting51",
+    "BlightCraftingItemsKeys": [
+      4,
+      7,
+      11
+    ],
+    "BlightCraftingResultsKey": 115,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 116,
+    "Id": "InverseWeighting52",
+    "BlightCraftingItemsKeys": [
+      6,
+      6,
+      11
+    ],
+    "BlightCraftingResultsKey": 116,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 117,
+    "Id": "InverseWeighting53",
+    "BlightCraftingItemsKeys": [
+      5,
+      7,
+      11
+    ],
+    "BlightCraftingResultsKey": 117,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 118,
+    "Id": "InverseWeighting53_2",
+    "BlightCraftingItemsKeys": [
+      7,
+      10,
+      10
+    ],
+    "BlightCraftingResultsKey": 118,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 119,
+    "Id": "InverseWeighting54",
+    "BlightCraftingItemsKeys": [
+      9,
+      9,
+      9
+    ],
+    "BlightCraftingResultsKey": 119,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 120,
+    "Id": "InverseWeighting55",
+    "BlightCraftingItemsKeys": [
+      3,
+      8,
+      11
+    ],
+    "BlightCraftingResultsKey": 120,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 121,
+    "Id": "InverseWeighting55_2",
+    "BlightCraftingItemsKeys": [
+      6,
+      7,
+      11
+    ],
+    "BlightCraftingResultsKey": 121,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 122,
+    "Id": "InverseWeighting56",
+    "BlightCraftingItemsKeys": [
+      4,
+      8,
+      11
+    ],
+    "BlightCraftingResultsKey": 122,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 123,
+    "Id": "InverseWeighting58",
+    "BlightCraftingItemsKeys": [
+      5,
+      8,
+      11
+    ],
+    "BlightCraftingResultsKey": 123,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 124,
+    "Id": "InverseWeighting58_2",
+    "BlightCraftingItemsKeys": [
+      7,
+      7,
+      11
+    ],
+    "BlightCraftingResultsKey": 124,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 125,
+    "Id": "InverseWeighting58_3",
+    "BlightCraftingItemsKeys": [
+      8,
+      10,
+      10
+    ],
+    "BlightCraftingResultsKey": 125,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 126,
+    "Id": "InverseWeighting58_4",
+    "BlightCraftingItemsKeys": [
+      9,
+      9,
+      10
+    ],
+    "BlightCraftingResultsKey": 126,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 127,
+    "Id": "InverseWeighting58_5",
+    "BlightCraftingItemsKeys": [
+      3,
+      9,
+      11
+    ],
+    "BlightCraftingResultsKey": 127,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 128,
+    "Id": "InverseWeighting59",
+    "BlightCraftingItemsKeys": [
+      4,
+      9,
+      11
+    ],
+    "BlightCraftingResultsKey": 128,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 129,
+    "Id": "InverseWeighting60",
+    "BlightCraftingItemsKeys": [
+      6,
+      8,
+      11
+    ],
+    "BlightCraftingResultsKey": 129,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 130,
+    "Id": "InverseWeighting63",
+    "BlightCraftingItemsKeys": [
+      3,
+      10,
+      11
+    ],
+    "BlightCraftingResultsKey": 130,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 131,
+    "Id": "InverseWeighting63_2",
+    "BlightCraftingItemsKeys": [
+      7,
+      8,
+      11
+    ],
+    "BlightCraftingResultsKey": 131,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 132,
+    "Id": "InverseWeighting63_3",
+    "BlightCraftingItemsKeys": [
+      6,
+      9,
+      11
+    ],
+    "BlightCraftingResultsKey": 132,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 133,
+    "Id": "InverseWeighting66_3",
+    "BlightCraftingItemsKeys": [
+      7,
+      9,
+      11
+    ],
+    "BlightCraftingResultsKey": 136,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 134,
+    "Id": "InverseWeighting64",
+    "BlightCraftingItemsKeys": [
+      4,
+      10,
+      11
+    ],
+    "BlightCraftingResultsKey": 133,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 135,
+    "Id": "InverseWeighting66",
+    "BlightCraftingItemsKeys": [
+      5,
+      10,
+      11
+    ],
+    "BlightCraftingResultsKey": 134,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 136,
+    "Id": "InverseWeighting66_2",
+    "BlightCraftingItemsKeys": [
+      10,
+      10,
+      10
+    ],
+    "BlightCraftingResultsKey": 135,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 137,
+    "Id": "InverseWeighting68",
+    "BlightCraftingItemsKeys": [
+      6,
+      10,
+      11
+    ],
+    "BlightCraftingResultsKey": 137,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 138,
+    "Id": "InverseWeighting68_2",
+    "BlightCraftingItemsKeys": [
+      8,
+      8,
+      11
+    ],
+    "BlightCraftingResultsKey": 138,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 139,
+    "Id": "InverseWeighting71",
+    "BlightCraftingItemsKeys": [
+      7,
+      10,
+      11
+    ],
+    "BlightCraftingResultsKey": 139,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 140,
+    "Id": "InverseWeighting75",
+    "BlightCraftingItemsKeys": [
+      9,
+      9,
+      11
+    ],
+    "BlightCraftingResultsKey": 140,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 141,
+    "Id": "InverseWeighting76",
+    "BlightCraftingItemsKeys": [
+      8,
+      10,
+      11
+    ],
+    "BlightCraftingResultsKey": 141,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 142,
+    "Id": "InverseWeighting79",
+    "BlightCraftingItemsKeys": [
+      9,
+      10,
+      11
+    ],
+    "BlightCraftingResultsKey": 142,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 143,
+    "Id": "InverseWeighting81",
+    "BlightCraftingItemsKeys": [
+      3,
+      11,
+      11
+    ],
+    "BlightCraftingResultsKey": 143,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 144,
+    "Id": "InverseWeighting82",
+    "BlightCraftingItemsKeys": [
+      3,
+      3,
+      12
+    ],
+    "BlightCraftingResultsKey": 144,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 145,
+    "Id": "InverseWeighting82_2",
+    "BlightCraftingItemsKeys": [
+      4,
+      11,
+      11
+    ],
+    "BlightCraftingResultsKey": 145,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 146,
+    "Id": "InverseWeighting83",
+    "BlightCraftingItemsKeys": [
+      3,
+      4,
+      12
+    ],
+    "BlightCraftingResultsKey": 146,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 147,
+    "Id": "InverseWeighting84",
+    "BlightCraftingItemsKeys": [
+      4,
+      4,
+      12
+    ],
+    "BlightCraftingResultsKey": 147,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 148,
+    "Id": "InverseWeighting84_2",
+    "BlightCraftingItemsKeys": [
+      5,
+      11,
+      11
+    ],
+    "BlightCraftingResultsKey": 148,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 149,
+    "Id": "InverseWeighting84_3",
+    "BlightCraftingItemsKeys": [
+      10,
+      10,
+      11
+    ],
+    "BlightCraftingResultsKey": 149,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 150,
+    "Id": "InverseWeighting85",
+    "BlightCraftingItemsKeys": [
+      3,
+      5,
+      12
+    ],
+    "BlightCraftingResultsKey": 150,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 151,
+    "Id": "InverseWeighting86",
+    "BlightCraftingItemsKeys": [
+      4,
+      5,
+      12
+    ],
+    "BlightCraftingResultsKey": 151,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 152,
+    "Id": "InverseWeighting86_2",
+    "BlightCraftingItemsKeys": [
+      6,
+      11,
+      11
+    ],
+    "BlightCraftingResultsKey": 152,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 153,
+    "Id": "InverseWeighting87",
+    "BlightCraftingItemsKeys": [
+      3,
+      6,
+      12
+    ],
+    "BlightCraftingResultsKey": 153,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 154,
+    "Id": "InverseWeighting88",
+    "BlightCraftingItemsKeys": [
+      4,
+      6,
+      12
+    ],
+    "BlightCraftingResultsKey": 154,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 155,
+    "Id": "InverseWeighting88_2",
+    "BlightCraftingItemsKeys": [
+      5,
+      5,
+      12
+    ],
+    "BlightCraftingResultsKey": 155,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 156,
+    "Id": "InverseWeighting89",
+    "BlightCraftingItemsKeys": [
+      7,
+      11,
+      11
+    ],
+    "BlightCraftingResultsKey": 156,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 157,
+    "Id": "InverseWeighting90",
+    "BlightCraftingItemsKeys": [
+      3,
+      7,
+      12
+    ],
+    "BlightCraftingResultsKey": 157,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 158,
+    "Id": "InverseWeighting90_2",
+    "BlightCraftingItemsKeys": [
+      5,
+      6,
+      12
+    ],
+    "BlightCraftingResultsKey": 158,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 159,
+    "Id": "InverseWeighting91",
+    "BlightCraftingItemsKeys": [
+      4,
+      7,
+      12
+    ],
+    "BlightCraftingResultsKey": 159,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 160,
+    "Id": "InverseWeighting92",
+    "BlightCraftingItemsKeys": [
+      6,
+      6,
+      12
+    ],
+    "BlightCraftingResultsKey": 160,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 161,
+    "Id": "InverseWeighting93",
+    "BlightCraftingItemsKeys": [
+      5,
+      7,
+      12
+    ],
+    "BlightCraftingResultsKey": 161,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 162,
+    "Id": "InverseWeighting94",
+    "BlightCraftingItemsKeys": [
+      8,
+      11,
+      11
+    ],
+    "BlightCraftingResultsKey": 162,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 163,
+    "Id": "InverseWeighting95",
+    "BlightCraftingItemsKeys": [
+      3,
+      8,
+      12
+    ],
+    "BlightCraftingResultsKey": 163,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 164,
+    "Id": "InverseWeighting95_2",
+    "BlightCraftingItemsKeys": [
+      6,
+      7,
+      12
+    ],
+    "BlightCraftingResultsKey": 164,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 165,
+    "Id": "InverseWeighting96",
+    "BlightCraftingItemsKeys": [
+      4,
+      8,
+      12
+    ],
+    "BlightCraftingResultsKey": 165,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 166,
+    "Id": "InverseWeighting96_2",
+    "BlightCraftingItemsKeys": [
+      9,
+      11,
+      11
+    ],
+    "BlightCraftingResultsKey": 166,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 167,
+    "Id": "InverseWeighting97",
+    "BlightCraftingItemsKeys": [
+      3,
+      9,
+      12
+    ],
+    "BlightCraftingResultsKey": 167,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 168,
+    "Id": "InverseWeighting98",
+    "BlightCraftingItemsKeys": [
+      5,
+      8,
+      12
+    ],
+    "BlightCraftingResultsKey": 168,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 169,
+    "Id": "InverseWeighting98_2",
+    "BlightCraftingItemsKeys": [
+      7,
+      7,
+      12
+    ],
+    "BlightCraftingResultsKey": 169,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 170,
+    "Id": "InverseWeighting98_3",
+    "BlightCraftingItemsKeys": [
+      4,
+      9,
+      12
+    ],
+    "BlightCraftingResultsKey": 170,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 171,
+    "Id": "InverseWeighting100",
+    "BlightCraftingItemsKeys": [
+      6,
+      8,
+      12
+    ],
+    "BlightCraftingResultsKey": 171,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 172,
+    "Id": "InverseWeighting100_2",
+    "BlightCraftingItemsKeys": [
+      5,
+      9,
+      12
+    ],
+    "BlightCraftingResultsKey": 172,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 173,
+    "Id": "InverseWeighting102",
+    "BlightCraftingItemsKeys": [
+      10,
+      11,
+      11
+    ],
+    "BlightCraftingResultsKey": 173,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 174,
+    "Id": "InverseWeighting102_2",
+    "BlightCraftingItemsKeys": [
+      6,
+      9,
+      12
+    ],
+    "BlightCraftingResultsKey": 174,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 175,
+    "Id": "InverseWeighting103",
+    "BlightCraftingItemsKeys": [
+      3,
+      10,
+      12
+    ],
+    "BlightCraftingResultsKey": 175,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 176,
+    "Id": "InverseWeighting103_2",
+    "BlightCraftingItemsKeys": [
+      7,
+      8,
+      12
+    ],
+    "BlightCraftingResultsKey": 176,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 177,
+    "Id": "InverseWeighting104",
+    "BlightCraftingItemsKeys": [
+      4,
+      10,
+      12
+    ],
+    "BlightCraftingResultsKey": 177,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 178,
+    "Id": "InverseWeighting105",
+    "BlightCraftingItemsKeys": [
+      7,
+      9,
+      12
+    ],
+    "BlightCraftingResultsKey": 178,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 179,
+    "Id": "InverseWeighting106",
+    "BlightCraftingItemsKeys": [
+      5,
+      10,
+      12
+    ],
+    "BlightCraftingResultsKey": 179,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 180,
+    "Id": "InverseWeighting108",
+    "BlightCraftingItemsKeys": [
+      6,
+      10,
+      12
+    ],
+    "BlightCraftingResultsKey": 180,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 181,
+    "Id": "InverseWeighting108_2",
+    "BlightCraftingItemsKeys": [
+      8,
+      8,
+      12
+    ],
+    "BlightCraftingResultsKey": 181,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 182,
+    "Id": "InverseWeighting111",
+    "BlightCraftingItemsKeys": [
+      7,
+      10,
+      12
+    ],
+    "BlightCraftingResultsKey": 182,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 183,
+    "Id": "InverseWeighting114",
+    "BlightCraftingItemsKeys": [
+      9,
+      9,
+      12
+    ],
+    "BlightCraftingResultsKey": 183,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 184,
+    "Id": "InverseWeighting116",
+    "BlightCraftingItemsKeys": [
+      8,
+      10,
+      12
+    ],
+    "BlightCraftingResultsKey": 184,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 185,
+    "Id": "InverseWeighting118",
+    "BlightCraftingItemsKeys": [
+      9,
+      10,
+      12
+    ],
+    "BlightCraftingResultsKey": 185,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 186,
+    "Id": "InverseWeighting120",
+    "BlightCraftingItemsKeys": [
+      11,
+      11,
+      11
+    ],
+    "BlightCraftingResultsKey": 186,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 187,
+    "Id": "InverseWeighting121",
+    "BlightCraftingItemsKeys": [
+      3,
+      11,
+      12
+    ],
+    "BlightCraftingResultsKey": 187,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 188,
+    "Id": "InverseWeighting122",
+    "BlightCraftingItemsKeys": [
+      3,
+      3,
+      13
+    ],
+    "BlightCraftingResultsKey": 188,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 189,
+    "Id": "InverseWeighting122_2",
+    "BlightCraftingItemsKeys": [
+      4,
+      11,
+      12
+    ],
+    "BlightCraftingResultsKey": 189,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 190,
+    "Id": "InverseWeighting123",
+    "BlightCraftingItemsKeys": [
+      3,
+      4,
+      13
+    ],
+    "BlightCraftingResultsKey": 190,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 191,
+    "Id": "InverseWeighting124",
+    "BlightCraftingItemsKeys": [
+      4,
+      4,
+      13
+    ],
+    "BlightCraftingResultsKey": 191,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 192,
+    "Id": "InverseWeighting124_2",
+    "BlightCraftingItemsKeys": [
+      5,
+      11,
+      12
+    ],
+    "BlightCraftingResultsKey": 192,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 193,
+    "Id": "InverseWeighting124_3",
+    "BlightCraftingItemsKeys": [
+      10,
+      10,
+      12
+    ],
+    "BlightCraftingResultsKey": 193,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 194,
+    "Id": "InverseWeighting125",
+    "BlightCraftingItemsKeys": [
+      3,
+      5,
+      13
+    ],
+    "BlightCraftingResultsKey": 194,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 195,
+    "Id": "InverseWeighting126",
+    "BlightCraftingItemsKeys": [
+      4,
+      5,
+      13
+    ],
+    "BlightCraftingResultsKey": 195,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 196,
+    "Id": "InverseWeighting126_2",
+    "BlightCraftingItemsKeys": [
+      6,
+      11,
+      12
+    ],
+    "BlightCraftingResultsKey": 196,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 197,
+    "Id": "InverseWeighting127",
+    "BlightCraftingItemsKeys": [
+      3,
+      6,
+      13
+    ],
+    "BlightCraftingResultsKey": 197,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 198,
+    "Id": "InverseWeighting128",
+    "BlightCraftingItemsKeys": [
+      4,
+      6,
+      13
+    ],
+    "BlightCraftingResultsKey": 198,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 199,
+    "Id": "InverseWeighting128_2",
+    "BlightCraftingItemsKeys": [
+      5,
+      5,
+      13
+    ],
+    "BlightCraftingResultsKey": 199,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 200,
+    "Id": "InverseWeighting129",
+    "BlightCraftingItemsKeys": [
+      7,
+      11,
+      12
+    ],
+    "BlightCraftingResultsKey": 200,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 201,
+    "Id": "InverseWeighting130",
+    "BlightCraftingItemsKeys": [
+      3,
+      7,
+      13
+    ],
+    "BlightCraftingResultsKey": 201,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 202,
+    "Id": "InverseWeighting130_2",
+    "BlightCraftingItemsKeys": [
+      5,
+      6,
+      13
+    ],
+    "BlightCraftingResultsKey": 202,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 203,
+    "Id": "InverseWeighting131",
+    "BlightCraftingItemsKeys": [
+      4,
+      7,
+      13
+    ],
+    "BlightCraftingResultsKey": 203,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 204,
+    "Id": "InverseWeighting132",
+    "BlightCraftingItemsKeys": [
+      6,
+      6,
+      13
+    ],
+    "BlightCraftingResultsKey": 204,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 205,
+    "Id": "InverseWeighting133",
+    "BlightCraftingItemsKeys": [
+      5,
+      7,
+      13
+    ],
+    "BlightCraftingResultsKey": 205,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 206,
+    "Id": "InverseWeighting134",
+    "BlightCraftingItemsKeys": [
+      8,
+      11,
+      12
+    ],
+    "BlightCraftingResultsKey": 206,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 207,
+    "Id": "InverseWeighting135",
+    "BlightCraftingItemsKeys": [
+      3,
+      8,
+      13
+    ],
+    "BlightCraftingResultsKey": 207,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 208,
+    "Id": "InverseWeighting135_2",
+    "BlightCraftingItemsKeys": [
+      6,
+      7,
+      13
+    ],
+    "BlightCraftingResultsKey": 208,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 209,
+    "Id": "InverseWeighting135_3",
+    "BlightCraftingItemsKeys": [
+      9,
+      11,
+      12
+    ],
+    "BlightCraftingResultsKey": 209,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 210,
+    "Id": "InverseWeighting136",
+    "BlightCraftingItemsKeys": [
+      4,
+      8,
+      13
+    ],
+    "BlightCraftingResultsKey": 210,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 211,
+    "Id": "InverseWeighting136_2",
+    "BlightCraftingItemsKeys": [
+      3,
+      9,
+      13
+    ],
+    "BlightCraftingResultsKey": 211,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 212,
+    "Id": "InverseWeighting137",
+    "BlightCraftingItemsKeys": [
+      4,
+      9,
+      13
+    ],
+    "BlightCraftingResultsKey": 212,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 213,
+    "Id": "InverseWeighting138",
+    "BlightCraftingItemsKeys": [
+      5,
+      8,
+      13
+    ],
+    "BlightCraftingResultsKey": 213,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 214,
+    "Id": "InverseWeighting138_2",
+    "BlightCraftingItemsKeys": [
+      7,
+      7,
+      13
+    ],
+    "BlightCraftingResultsKey": 214,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 215,
+    "Id": "InverseWeighting139",
+    "BlightCraftingItemsKeys": [
+      5,
+      9,
+      13
+    ],
+    "BlightCraftingResultsKey": 215,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 216,
+    "Id": "InverseWeighting140",
+    "BlightCraftingItemsKeys": [
+      6,
+      8,
+      13
+    ],
+    "BlightCraftingResultsKey": 216,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 217,
+    "Id": "InverseWeighting141",
+    "BlightCraftingItemsKeys": [
+      6,
+      9,
+      13
+    ],
+    "BlightCraftingResultsKey": 217,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 218,
+    "Id": "InverseWeighting142",
+    "BlightCraftingItemsKeys": [
+      10,
+      11,
+      12
+    ],
+    "BlightCraftingResultsKey": 218,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 219,
+    "Id": "InverseWeighting143",
+    "BlightCraftingItemsKeys": [
+      3,
+      10,
+      13
+    ],
+    "BlightCraftingResultsKey": 219,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 220,
+    "Id": "InverseWeighting143_2",
+    "BlightCraftingItemsKeys": [
+      7,
+      8,
+      13
+    ],
+    "BlightCraftingResultsKey": 220,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 221,
+    "Id": "InverseWeighting144",
+    "BlightCraftingItemsKeys": [
+      4,
+      10,
+      13
+    ],
+    "BlightCraftingResultsKey": 221,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 222,
+    "Id": "InverseWeighting144_2",
+    "BlightCraftingItemsKeys": [
+      7,
+      9,
+      13
+    ],
+    "BlightCraftingResultsKey": 222,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 223,
+    "Id": "InverseWeighting146",
+    "BlightCraftingItemsKeys": [
+      5,
+      10,
+      13
+    ],
+    "BlightCraftingResultsKey": 223,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 224,
+    "Id": "InverseWeighting148",
+    "BlightCraftingItemsKeys": [
+      6,
+      10,
+      13
+    ],
+    "BlightCraftingResultsKey": 224,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 225,
+    "Id": "InverseWeighting148_2",
+    "BlightCraftingItemsKeys": [
+      8,
+      8,
+      13
+    ],
+    "BlightCraftingResultsKey": 225,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 226,
+    "Id": "InverseWeighting151",
+    "BlightCraftingItemsKeys": [
+      7,
+      10,
+      13
+    ],
+    "BlightCraftingResultsKey": 226,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 227,
+    "Id": "InverseWeighting153",
+    "BlightCraftingItemsKeys": [
+      9,
+      9,
+      13
+    ],
+    "BlightCraftingResultsKey": 227,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 228,
+    "Id": "InverseWeighting156",
+    "BlightCraftingItemsKeys": [
+      8,
+      10,
+      13
+    ],
+    "BlightCraftingResultsKey": 228,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 229,
+    "Id": "InverseWeighting157",
+    "BlightCraftingItemsKeys": [
+      9,
+      10,
+      13
+    ],
+    "BlightCraftingResultsKey": 229,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 230,
+    "Id": "InverseWeighting160",
+    "BlightCraftingItemsKeys": [
+      11,
+      11,
+      12
+    ],
+    "BlightCraftingResultsKey": 230,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 231,
+    "Id": "InverseWeighting161",
+    "BlightCraftingItemsKeys": [
+      3,
+      11,
+      13
+    ],
+    "BlightCraftingResultsKey": 231,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 232,
+    "Id": "InverseWeighting161_2",
+    "BlightCraftingItemsKeys": [
+      3,
+      12,
+      12
+    ],
+    "BlightCraftingResultsKey": 232,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 233,
+    "Id": "InverseWeighting162",
+    "BlightCraftingItemsKeys": [
+      4,
+      11,
+      13
+    ],
+    "BlightCraftingResultsKey": 233,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 234,
+    "Id": "InverseWeighting162_2",
+    "BlightCraftingItemsKeys": [
+      4,
+      12,
+      12
+    ],
+    "BlightCraftingResultsKey": 234,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 235,
+    "Id": "InverseWeighting164",
+    "BlightCraftingItemsKeys": [
+      5,
+      11,
+      13
+    ],
+    "BlightCraftingResultsKey": 235,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 236,
+    "Id": "InverseWeighting164_2",
+    "BlightCraftingItemsKeys": [
+      5,
+      12,
+      12
+    ],
+    "BlightCraftingResultsKey": 236,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 237,
+    "Id": "InverseWeighting164_3",
+    "BlightCraftingItemsKeys": [
+      10,
+      10,
+      13
+    ],
+    "BlightCraftingResultsKey": 237,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 238,
+    "Id": "InverseWeighting166",
+    "BlightCraftingItemsKeys": [
+      6,
+      11,
+      13
+    ],
+    "BlightCraftingResultsKey": 238,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 239,
+    "Id": "InverseWeighting166_2",
+    "BlightCraftingItemsKeys": [
+      6,
+      12,
+      12
+    ],
+    "BlightCraftingResultsKey": 239,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 240,
+    "Id": "InverseWeighting169",
+    "BlightCraftingItemsKeys": [
+      7,
+      11,
+      13
+    ],
+    "BlightCraftingResultsKey": 240,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 241,
+    "Id": "InverseWeighting169_2",
+    "BlightCraftingItemsKeys": [
+      7,
+      12,
+      12
+    ],
+    "BlightCraftingResultsKey": 241,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 242,
+    "Id": "InverseWeighting174",
+    "BlightCraftingItemsKeys": [
+      8,
+      11,
+      13
+    ],
+    "BlightCraftingResultsKey": 242,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 243,
+    "Id": "InverseWeighting174_2",
+    "BlightCraftingItemsKeys": [
+      8,
+      12,
+      12
+    ],
+    "BlightCraftingResultsKey": 243,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 244,
+    "Id": "InverseWeighting174_3",
+    "BlightCraftingItemsKeys": [
+      9,
+      11,
+      13
+    ],
+    "BlightCraftingResultsKey": 244,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 245,
+    "Id": "InverseWeighting174_4",
+    "BlightCraftingItemsKeys": [
+      9,
+      12,
+      12
+    ],
+    "BlightCraftingResultsKey": 245,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 246,
+    "Id": "InverseWeighting182",
+    "BlightCraftingItemsKeys": [
+      3,
+      3,
+      14
+    ],
+    "BlightCraftingResultsKey": 246,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 247,
+    "Id": "InverseWeighting182_2",
+    "BlightCraftingItemsKeys": [
+      10,
+      11,
+      13
+    ],
+    "BlightCraftingResultsKey": 247,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 248,
+    "Id": "InverseWeighting182_3",
+    "BlightCraftingItemsKeys": [
+      10,
+      12,
+      12
+    ],
+    "BlightCraftingResultsKey": 248,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 249,
+    "Id": "InverseWeighting183",
+    "BlightCraftingItemsKeys": [
+      3,
+      4,
+      14
+    ],
+    "BlightCraftingResultsKey": 249,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 250,
+    "Id": "InverseWeighting184",
+    "BlightCraftingItemsKeys": [
+      4,
+      4,
+      14
+    ],
+    "BlightCraftingResultsKey": 250,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 251,
+    "Id": "InverseWeighting185",
+    "BlightCraftingItemsKeys": [
+      3,
+      5,
+      14
+    ],
+    "BlightCraftingResultsKey": 251,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 252,
+    "Id": "InverseWeighting186",
+    "BlightCraftingItemsKeys": [
+      4,
+      5,
+      14
+    ],
+    "BlightCraftingResultsKey": 252,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 253,
+    "Id": "InverseWeighting187",
+    "BlightCraftingItemsKeys": [
+      3,
+      6,
+      14
+    ],
+    "BlightCraftingResultsKey": 253,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 254,
+    "Id": "InverseWeighting188",
+    "BlightCraftingItemsKeys": [
+      4,
+      6,
+      14
+    ],
+    "BlightCraftingResultsKey": 254,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 255,
+    "Id": "InverseWeighting188_2",
+    "BlightCraftingItemsKeys": [
+      5,
+      5,
+      14
+    ],
+    "BlightCraftingResultsKey": 255,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 256,
+    "Id": "InverseWeighting190",
+    "BlightCraftingItemsKeys": [
+      3,
+      7,
+      14
+    ],
+    "BlightCraftingResultsKey": 256,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 257,
+    "Id": "InverseWeighting190_2",
+    "BlightCraftingItemsKeys": [
+      5,
+      6,
+      14
+    ],
+    "BlightCraftingResultsKey": 257,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 258,
+    "Id": "InverseWeighting191",
+    "BlightCraftingItemsKeys": [
+      4,
+      7,
+      14
+    ],
+    "BlightCraftingResultsKey": 258,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 259,
+    "Id": "InverseWeighting192",
+    "BlightCraftingItemsKeys": [
+      6,
+      6,
+      14
+    ],
+    "BlightCraftingResultsKey": 259,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 260,
+    "Id": "InverseWeighting193",
+    "BlightCraftingItemsKeys": [
+      5,
+      7,
+      14
+    ],
+    "BlightCraftingResultsKey": 260,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 261,
+    "Id": "InverseWeighting194",
+    "BlightCraftingItemsKeys": [
+      3,
+      9,
+      14
+    ],
+    "BlightCraftingResultsKey": 261,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 262,
+    "Id": "InverseWeighting195",
+    "BlightCraftingItemsKeys": [
+      3,
+      8,
+      14
+    ],
+    "BlightCraftingResultsKey": 262,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 263,
+    "Id": "InverseWeighting195_2",
+    "BlightCraftingItemsKeys": [
+      6,
+      7,
+      14
+    ],
+    "BlightCraftingResultsKey": 263,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 264,
+    "Id": "InverseWeighting195_3",
+    "BlightCraftingItemsKeys": [
+      4,
+      9,
+      14
+    ],
+    "BlightCraftingResultsKey": 264,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 265,
+    "Id": "InverseWeighting196",
+    "BlightCraftingItemsKeys": [
+      4,
+      8,
+      14
+    ],
+    "BlightCraftingResultsKey": 265,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 266,
+    "Id": "InverseWeighting197",
+    "BlightCraftingItemsKeys": [
+      5,
+      9,
+      14
+    ],
+    "BlightCraftingResultsKey": 266,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 267,
+    "Id": "InverseWeighting198",
+    "BlightCraftingItemsKeys": [
+      5,
+      8,
+      14
+    ],
+    "BlightCraftingResultsKey": 267,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 268,
+    "Id": "InverseWeighting198_2",
+    "BlightCraftingItemsKeys": [
+      7,
+      7,
+      14
+    ],
+    "BlightCraftingResultsKey": 268,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 269,
+    "Id": "InverseWeighting199",
+    "BlightCraftingItemsKeys": [
+      6,
+      9,
+      14
+    ],
+    "BlightCraftingResultsKey": 269,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 270,
+    "Id": "InverseWeighting200",
+    "BlightCraftingItemsKeys": [
+      6,
+      8,
+      14
+    ],
+    "BlightCraftingResultsKey": 270,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 271,
+    "Id": "InverseWeighting200_2",
+    "BlightCraftingItemsKeys": [
+      11,
+      11,
+      13
+    ],
+    "BlightCraftingResultsKey": 271,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 272,
+    "Id": "InverseWeighting200_3",
+    "BlightCraftingItemsKeys": [
+      11,
+      12,
+      12
+    ],
+    "BlightCraftingResultsKey": 272,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 273,
+    "Id": "InverseWeighting201",
+    "BlightCraftingItemsKeys": [
+      3,
+      12,
+      13
+    ],
+    "BlightCraftingResultsKey": 273,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 274,
+    "Id": "InverseWeighting202",
+    "BlightCraftingItemsKeys": [
+      4,
+      12,
+      13
+    ],
+    "BlightCraftingResultsKey": 274,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 275,
+    "Id": "InverseWeighting202_2",
+    "BlightCraftingItemsKeys": [
+      7,
+      9,
+      14
+    ],
+    "BlightCraftingResultsKey": 275,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 276,
+    "Id": "InverseWeighting203",
+    "BlightCraftingItemsKeys": [
+      3,
+      10,
+      14
+    ],
+    "BlightCraftingResultsKey": 276,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 277,
+    "Id": "InverseWeighting203_2",
+    "BlightCraftingItemsKeys": [
+      7,
+      8,
+      14
+    ],
+    "BlightCraftingResultsKey": 277,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 278,
+    "Id": "InverseWeighting204",
+    "BlightCraftingItemsKeys": [
+      4,
+      10,
+      14
+    ],
+    "BlightCraftingResultsKey": 278,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 279,
+    "Id": "InverseWeighting204_2",
+    "BlightCraftingItemsKeys": [
+      5,
+      12,
+      13
+    ],
+    "BlightCraftingResultsKey": 279,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 280,
+    "Id": "InverseWeighting206",
+    "BlightCraftingItemsKeys": [
+      5,
+      10,
+      14
+    ],
+    "BlightCraftingResultsKey": 280,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 281,
+    "Id": "InverseWeighting206_2",
+    "BlightCraftingItemsKeys": [
+      6,
+      12,
+      13
+    ],
+    "BlightCraftingResultsKey": 281,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 282,
+    "Id": "InverseWeighting208",
+    "BlightCraftingItemsKeys": [
+      6,
+      10,
+      14
+    ],
+    "BlightCraftingResultsKey": 282,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 283,
+    "Id": "InverseWeighting208_2",
+    "BlightCraftingItemsKeys": [
+      8,
+      8,
+      14
+    ],
+    "BlightCraftingResultsKey": 283,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 284,
+    "Id": "InverseWeighting209",
+    "BlightCraftingItemsKeys": [
+      7,
+      12,
+      13
+    ],
+    "BlightCraftingResultsKey": 284,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 285,
+    "Id": "InverseWeighting211",
+    "BlightCraftingItemsKeys": [
+      7,
+      10,
+      14
+    ],
+    "BlightCraftingResultsKey": 285,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 286,
+    "Id": "InverseWeighting211_2",
+    "BlightCraftingItemsKeys": [
+      9,
+      9,
+      14
+    ],
+    "BlightCraftingResultsKey": 286,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 287,
+    "Id": "InverseWeighting213",
+    "BlightCraftingItemsKeys": [
+      9,
+      12,
+      13
+    ],
+    "BlightCraftingResultsKey": 287,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 288,
+    "Id": "InverseWeighting214",
+    "BlightCraftingItemsKeys": [
+      8,
+      12,
+      13
+    ],
+    "BlightCraftingResultsKey": 288,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 289,
+    "Id": "InverseWeighting215",
+    "BlightCraftingItemsKeys": [
+      9,
+      10,
+      14
+    ],
+    "BlightCraftingResultsKey": 289,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 290,
+    "Id": "InverseWeighting216",
+    "BlightCraftingItemsKeys": [
+      8,
+      10,
+      14
+    ],
+    "BlightCraftingResultsKey": 290,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 291,
+    "Id": "InverseWeighting221",
+    "BlightCraftingItemsKeys": [
+      3,
+      11,
+      14
+    ],
+    "BlightCraftingResultsKey": 291,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 292,
+    "Id": "InverseWeighting222",
+    "BlightCraftingItemsKeys": [
+      4,
+      11,
+      14
+    ],
+    "BlightCraftingResultsKey": 292,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 293,
+    "Id": "InverseWeighting222_2",
+    "BlightCraftingItemsKeys": [
+      10,
+      12,
+      13
+    ],
+    "BlightCraftingResultsKey": 293,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 294,
+    "Id": "InverseWeighting224",
+    "BlightCraftingItemsKeys": [
+      5,
+      11,
+      14
+    ],
+    "BlightCraftingResultsKey": 294,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 295,
+    "Id": "InverseWeighting224_2",
+    "BlightCraftingItemsKeys": [
+      10,
+      10,
+      14
+    ],
+    "BlightCraftingResultsKey": 295,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 296,
+    "Id": "InverseWeighting226",
+    "BlightCraftingItemsKeys": [
+      6,
+      11,
+      14
+    ],
+    "BlightCraftingResultsKey": 296,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 297,
+    "Id": "InverseWeighting229",
+    "BlightCraftingItemsKeys": [
+      7,
+      11,
+      14
+    ],
+    "BlightCraftingResultsKey": 297,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 298,
+    "Id": "InverseWeighting232",
+    "BlightCraftingItemsKeys": [
+      9,
+      11,
+      14
+    ],
+    "BlightCraftingResultsKey": 298,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 299,
+    "Id": "InverseWeighting234",
+    "BlightCraftingItemsKeys": [
+      8,
+      11,
+      14
+    ],
+    "BlightCraftingResultsKey": 299,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 300,
+    "Id": "InverseWeighting240",
+    "BlightCraftingItemsKeys": [
+      11,
+      12,
+      13
+    ],
+    "BlightCraftingResultsKey": 300,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 301,
+    "Id": "InverseWeighting240_2",
+    "BlightCraftingItemsKeys": [
+      12,
+      12,
+      12
+    ],
+    "BlightCraftingResultsKey": 301,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 302,
+    "Id": "InverseWeighting241",
+    "BlightCraftingItemsKeys": [
+      3,
+      13,
+      13
+    ],
+    "BlightCraftingResultsKey": 302,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 303,
+    "Id": "InverseWeighting242",
+    "BlightCraftingItemsKeys": [
+      4,
+      13,
+      13
+    ],
+    "BlightCraftingResultsKey": 303,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 304,
+    "Id": "InverseWeighting242_2",
+    "BlightCraftingItemsKeys": [
+      10,
+      11,
+      14
+    ],
+    "BlightCraftingResultsKey": 304,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 305,
+    "Id": "InverseWeighting244",
+    "BlightCraftingItemsKeys": [
+      5,
+      13,
+      13
+    ],
+    "BlightCraftingResultsKey": 305,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 306,
+    "Id": "InverseWeighting245",
+    "BlightCraftingItemsKeys": [
+      3,
+      3,
+      15
+    ],
+    "BlightCraftingResultsKey": 306,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 307,
+    "Id": "InverseWeighting246",
+    "BlightCraftingItemsKeys": [
+      3,
+      4,
+      15
+    ],
+    "BlightCraftingResultsKey": 307,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 308,
+    "Id": "InverseWeighting246_2",
+    "BlightCraftingItemsKeys": [
+      6,
+      13,
+      13
+    ],
+    "BlightCraftingResultsKey": 308,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 309,
+    "Id": "InverseWeighting247",
+    "BlightCraftingItemsKeys": [
+      4,
+      4,
+      15
+    ],
+    "BlightCraftingResultsKey": 309,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 310,
+    "Id": "InverseWeighting248",
+    "BlightCraftingItemsKeys": [
+      3,
+      5,
+      15
+    ],
+    "BlightCraftingResultsKey": 310,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 311,
+    "Id": "InverseWeighting249",
+    "BlightCraftingItemsKeys": [
+      4,
+      5,
+      15
+    ],
+    "BlightCraftingResultsKey": 311,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 312,
+    "Id": "InverseWeighting249_2",
+    "BlightCraftingItemsKeys": [
+      7,
+      13,
+      13
+    ],
+    "BlightCraftingResultsKey": 312,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 313,
+    "Id": "InverseWeighting250",
+    "BlightCraftingItemsKeys": [
+      3,
+      6,
+      15
+    ],
+    "BlightCraftingResultsKey": 313,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 314,
+    "Id": "InverseWeighting251",
+    "BlightCraftingItemsKeys": [
+      4,
+      6,
+      15
+    ],
+    "BlightCraftingResultsKey": 314,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 315,
+    "Id": "InverseWeighting251_2",
+    "BlightCraftingItemsKeys": [
+      5,
+      5,
+      15
+    ],
+    "BlightCraftingResultsKey": 315,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 316,
+    "Id": "InverseWeighting252",
+    "BlightCraftingItemsKeys": [
+      9,
+      13,
+      13
+    ],
+    "BlightCraftingResultsKey": 316,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 317,
+    "Id": "InverseWeighting253",
+    "BlightCraftingItemsKeys": [
+      3,
+      7,
+      15
+    ],
+    "BlightCraftingResultsKey": 317,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 318,
+    "Id": "InverseWeighting253_2",
+    "BlightCraftingItemsKeys": [
+      5,
+      6,
+      15
+    ],
+    "BlightCraftingResultsKey": 318,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 319,
+    "Id": "InverseWeighting254",
+    "BlightCraftingItemsKeys": [
+      4,
+      7,
+      15
+    ],
+    "BlightCraftingResultsKey": 319,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 320,
+    "Id": "InverseWeighting254_2",
+    "BlightCraftingItemsKeys": [
+      8,
+      13,
+      13
+    ],
+    "BlightCraftingResultsKey": 320,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 321,
+    "Id": "InverseWeighting255",
+    "BlightCraftingItemsKeys": [
+      6,
+      6,
+      15
+    ],
+    "BlightCraftingResultsKey": 321,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 322,
+    "Id": "InverseWeighting255_2",
+    "BlightCraftingItemsKeys": [
+      3,
+      9,
+      15
+    ],
+    "BlightCraftingResultsKey": 322,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 323,
+    "Id": "InverseWeighting256",
+    "BlightCraftingItemsKeys": [
+      5,
+      7,
+      15
+    ],
+    "BlightCraftingResultsKey": 323,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 324,
+    "Id": "InverseWeighting256_2",
+    "BlightCraftingItemsKeys": [
+      4,
+      9,
+      15
+    ],
+    "BlightCraftingResultsKey": 324,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 325,
+    "Id": "InverseWeighting258",
+    "BlightCraftingItemsKeys": [
+      3,
+      8,
+      15
+    ],
+    "BlightCraftingResultsKey": 325,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 326,
+    "Id": "InverseWeighting258_2",
+    "BlightCraftingItemsKeys": [
+      6,
+      7,
+      15
+    ],
+    "BlightCraftingResultsKey": 326,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 327,
+    "Id": "InverseWeighting258_3",
+    "BlightCraftingItemsKeys": [
+      5,
+      9,
+      15
+    ],
+    "BlightCraftingResultsKey": 327,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 328,
+    "Id": "InverseWeighting259",
+    "BlightCraftingItemsKeys": [
+      4,
+      8,
+      15
+    ],
+    "BlightCraftingResultsKey": 328,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 329,
+    "Id": "InverseWeighting260",
+    "BlightCraftingItemsKeys": [
+      11,
+      11,
+      14
+    ],
+    "BlightCraftingResultsKey": 329,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 330,
+    "Id": "InverseWeighting260_2",
+    "BlightCraftingItemsKeys": [
+      6,
+      9,
+      15
+    ],
+    "BlightCraftingResultsKey": 330,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 331,
+    "Id": "InverseWeighting261",
+    "BlightCraftingItemsKeys": [
+      3,
+      12,
+      14
+    ],
+    "BlightCraftingResultsKey": 331,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 332,
+    "Id": "InverseWeighting261_2",
+    "BlightCraftingItemsKeys": [
+      5,
+      8,
+      15
+    ],
+    "BlightCraftingResultsKey": 332,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 333,
+    "Id": "InverseWeighting261_3",
+    "BlightCraftingItemsKeys": [
+      7,
+      7,
+      15
+    ],
+    "BlightCraftingResultsKey": 333,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 334,
+    "Id": "InverseWeighting262",
+    "BlightCraftingItemsKeys": [
+      4,
+      12,
+      14
+    ],
+    "BlightCraftingResultsKey": 334,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 335,
+    "Id": "InverseWeighting262_2",
+    "BlightCraftingItemsKeys": [
+      10,
+      13,
+      13
+    ],
+    "BlightCraftingResultsKey": 335,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 336,
+    "Id": "InverseWeighting263",
+    "BlightCraftingItemsKeys": [
+      6,
+      8,
+      15
+    ],
+    "BlightCraftingResultsKey": 336,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 337,
+    "Id": "InverseWeighting263_2",
+    "BlightCraftingItemsKeys": [
+      7,
+      9,
+      15
+    ],
+    "BlightCraftingResultsKey": 337,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 338,
+    "Id": "InverseWeighting264",
+    "BlightCraftingItemsKeys": [
+      5,
+      12,
+      14
+    ],
+    "BlightCraftingResultsKey": 338,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 339,
+    "Id": "InverseWeighting266",
+    "BlightCraftingItemsKeys": [
+      3,
+      10,
+      15
+    ],
+    "BlightCraftingResultsKey": 339,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 340,
+    "Id": "InverseWeighting266_2",
+    "BlightCraftingItemsKeys": [
+      6,
+      12,
+      14
+    ],
+    "BlightCraftingResultsKey": 340,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 341,
+    "Id": "InverseWeighting266_3",
+    "BlightCraftingItemsKeys": [
+      7,
+      8,
+      15
+    ],
+    "BlightCraftingResultsKey": 341,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 342,
+    "Id": "InverseWeighting267",
+    "BlightCraftingItemsKeys": [
+      4,
+      10,
+      15
+    ],
+    "BlightCraftingResultsKey": 342,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 343,
+    "Id": "InverseWeighting269",
+    "BlightCraftingItemsKeys": [
+      5,
+      10,
+      15
+    ],
+    "BlightCraftingResultsKey": 343,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 344,
+    "Id": "InverseWeighting269_2",
+    "BlightCraftingItemsKeys": [
+      7,
+      12,
+      14
+    ],
+    "BlightCraftingResultsKey": 344,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 345,
+    "Id": "InverseWeighting271",
+    "BlightCraftingItemsKeys": [
+      6,
+      10,
+      15
+    ],
+    "BlightCraftingResultsKey": 345,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 346,
+    "Id": "InverseWeighting271_2",
+    "BlightCraftingItemsKeys": [
+      8,
+      8,
+      15
+    ],
+    "BlightCraftingResultsKey": 346,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 347,
+    "Id": "InverseWeighting271_3",
+    "BlightCraftingItemsKeys": [
+      9,
+      12,
+      14
+    ],
+    "BlightCraftingResultsKey": 347,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 348,
+    "Id": "InverseWeighting272",
+    "BlightCraftingItemsKeys": [
+      9,
+      9,
+      15
+    ],
+    "BlightCraftingResultsKey": 348,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 349,
+    "Id": "InverseWeighting274",
+    "BlightCraftingItemsKeys": [
+      7,
+      10,
+      15
+    ],
+    "BlightCraftingResultsKey": 349,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 350,
+    "Id": "InverseWeighting274_2",
+    "BlightCraftingItemsKeys": [
+      8,
+      12,
+      14
+    ],
+    "BlightCraftingResultsKey": 350,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 351,
+    "Id": "InverseWeighting276",
+    "BlightCraftingItemsKeys": [
+      9,
+      10,
+      15
+    ],
+    "BlightCraftingResultsKey": 351,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 352,
+    "Id": "InverseWeighting279",
+    "BlightCraftingItemsKeys": [
+      8,
+      10,
+      15
+    ],
+    "BlightCraftingResultsKey": 352,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 353,
+    "Id": "InverseWeighting280",
+    "BlightCraftingItemsKeys": [
+      11,
+      13,
+      13
+    ],
+    "BlightCraftingResultsKey": 353,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 354,
+    "Id": "InverseWeighting280_2",
+    "BlightCraftingItemsKeys": [
+      12,
+      12,
+      13
+    ],
+    "BlightCraftingResultsKey": 354,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 355,
+    "Id": "InverseWeighting282",
+    "BlightCraftingItemsKeys": [
+      10,
+      12,
+      14
+    ],
+    "BlightCraftingResultsKey": 355,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 356,
+    "Id": "InverseWeighting284",
+    "BlightCraftingItemsKeys": [
+      3,
+      11,
+      15
+    ],
+    "BlightCraftingResultsKey": 356,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 357,
+    "Id": "InverseWeighting285",
+    "BlightCraftingItemsKeys": [
+      4,
+      11,
+      15
+    ],
+    "BlightCraftingResultsKey": 357,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 358,
+    "Id": "InverseWeighting287",
+    "BlightCraftingItemsKeys": [
+      5,
+      11,
+      15
+    ],
+    "BlightCraftingResultsKey": 358,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 359,
+    "Id": "InverseWeighting287_2",
+    "BlightCraftingItemsKeys": [
+      10,
+      10,
+      15
+    ],
+    "BlightCraftingResultsKey": 359,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 360,
+    "Id": "InverseWeighting289",
+    "BlightCraftingItemsKeys": [
+      6,
+      11,
+      15
+    ],
+    "BlightCraftingResultsKey": 360,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 361,
+    "Id": "InverseWeighting292",
+    "BlightCraftingItemsKeys": [
+      7,
+      11,
+      15
+    ],
+    "BlightCraftingResultsKey": 361,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 362,
+    "Id": "InverseWeighting293",
+    "BlightCraftingItemsKeys": [
+      9,
+      11,
+      15
+    ],
+    "BlightCraftingResultsKey": 362,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 363,
+    "Id": "InverseWeighting297",
+    "BlightCraftingItemsKeys": [
+      8,
+      11,
+      15
+    ],
+    "BlightCraftingResultsKey": 363,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 364,
+    "Id": "InverseWeighting300",
+    "BlightCraftingItemsKeys": [
+      11,
+      12,
+      14
+    ],
+    "BlightCraftingResultsKey": 364,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 365,
+    "Id": "InverseWeighting301",
+    "BlightCraftingItemsKeys": [
+      3,
+      13,
+      14
+    ],
+    "BlightCraftingResultsKey": 365,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 366,
+    "Id": "InverseWeighting302",
+    "BlightCraftingItemsKeys": [
+      4,
+      13,
+      14
+    ],
+    "BlightCraftingResultsKey": 366,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 367,
+    "Id": "InverseWeighting304",
+    "BlightCraftingItemsKeys": [
+      5,
+      13,
+      14
+    ],
+    "BlightCraftingResultsKey": 367,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 368,
+    "Id": "InverseWeighting305",
+    "BlightCraftingItemsKeys": [
+      10,
+      11,
+      15
+    ],
+    "BlightCraftingResultsKey": 368,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 369,
+    "Id": "InverseWeighting306",
+    "BlightCraftingItemsKeys": [
+      6,
+      13,
+      14
+    ],
+    "BlightCraftingResultsKey": 369,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 370,
+    "Id": "InverseWeighting309",
+    "BlightCraftingItemsKeys": [
+      7,
+      13,
+      14
+    ],
+    "BlightCraftingResultsKey": 370,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 371,
+    "Id": "InverseWeighting310",
+    "BlightCraftingItemsKeys": [
+      9,
+      13,
+      14
+    ],
+    "BlightCraftingResultsKey": 371,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 372,
+    "Id": "InverseWeighting314",
+    "BlightCraftingItemsKeys": [
+      8,
+      13,
+      14
+    ],
+    "BlightCraftingResultsKey": 372,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 373,
+    "Id": "InverseWeighting320",
+    "BlightCraftingItemsKeys": [
+      12,
+      13,
+      13
+    ],
+    "BlightCraftingResultsKey": 373,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 374,
+    "Id": "InverseWeighting322",
+    "BlightCraftingItemsKeys": [
+      10,
+      13,
+      14
+    ],
+    "BlightCraftingResultsKey": 374,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 375,
+    "Id": "InverseWeighting323",
+    "BlightCraftingItemsKeys": [
+      11,
+      11,
+      15
+    ],
+    "BlightCraftingResultsKey": 375,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 376,
+    "Id": "InverseWeighting324",
+    "BlightCraftingItemsKeys": [
+      3,
+      12,
+      15
+    ],
+    "BlightCraftingResultsKey": 376,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 377,
+    "Id": "InverseWeighting325",
+    "BlightCraftingItemsKeys": [
+      4,
+      12,
+      15
+    ],
+    "BlightCraftingResultsKey": 377,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 378,
+    "Id": "InverseWeighting327",
+    "BlightCraftingItemsKeys": [
+      5,
+      12,
+      15
+    ],
+    "BlightCraftingResultsKey": 378,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 379,
+    "Id": "InverseWeighting329",
+    "BlightCraftingItemsKeys": [
+      6,
+      12,
+      15
+    ],
+    "BlightCraftingResultsKey": 379,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 380,
+    "Id": "InverseWeighting332",
+    "BlightCraftingItemsKeys": [
+      7,
+      12,
+      15
+    ],
+    "BlightCraftingResultsKey": 380,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 381,
+    "Id": "InverseWeighting332_2",
+    "BlightCraftingItemsKeys": [
+      9,
+      12,
+      15
+    ],
+    "BlightCraftingResultsKey": 381,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 382,
+    "Id": "InverseWeighting337",
+    "BlightCraftingItemsKeys": [
+      8,
+      12,
+      15
+    ],
+    "BlightCraftingResultsKey": 382,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 383,
+    "Id": "InverseWeighting340",
+    "BlightCraftingItemsKeys": [
+      11,
+      13,
+      14
+    ],
+    "BlightCraftingResultsKey": 383,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 384,
+    "Id": "InverseWeighting340_2",
+    "BlightCraftingItemsKeys": [
+      12,
+      12,
+      14
+    ],
+    "BlightCraftingResultsKey": 384,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 385,
+    "Id": "InverseWeighting345",
+    "BlightCraftingItemsKeys": [
+      10,
+      12,
+      15
+    ],
+    "BlightCraftingResultsKey": 385,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 386,
+    "Id": "InverseWeighting360",
+    "BlightCraftingItemsKeys": [
+      13,
+      13,
+      13
+    ],
+    "BlightCraftingResultsKey": 386,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 387,
+    "Id": "InverseWeighting361",
+    "BlightCraftingItemsKeys": [
+      3,
+      14,
+      14
+    ],
+    "BlightCraftingResultsKey": 387,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 388,
+    "Id": "InverseWeighting362",
+    "BlightCraftingItemsKeys": [
+      4,
+      14,
+      14
+    ],
+    "BlightCraftingResultsKey": 388,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 389,
+    "Id": "InverseWeighting363",
+    "BlightCraftingItemsKeys": [
+      11,
+      12,
+      15
+    ],
+    "BlightCraftingResultsKey": 389,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 390,
+    "Id": "InverseWeighting364",
+    "BlightCraftingItemsKeys": [
+      3,
+      13,
+      15
+    ],
+    "BlightCraftingResultsKey": 390,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 391,
+    "Id": "InverseWeighting364_2",
+    "BlightCraftingItemsKeys": [
+      5,
+      14,
+      14
+    ],
+    "BlightCraftingResultsKey": 391,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 392,
+    "Id": "InverseWeighting365",
+    "BlightCraftingItemsKeys": [
+      4,
+      13,
+      15
+    ],
+    "BlightCraftingResultsKey": 392,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 393,
+    "Id": "InverseWeighting366",
+    "BlightCraftingItemsKeys": [
+      6,
+      14,
+      14
+    ],
+    "BlightCraftingResultsKey": 393,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 394,
+    "Id": "InverseWeighting367",
+    "BlightCraftingItemsKeys": [
+      5,
+      13,
+      15
+    ],
+    "BlightCraftingResultsKey": 394,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 395,
+    "Id": "InverseWeighting368",
+    "BlightCraftingItemsKeys": [
+      9,
+      14,
+      14
+    ],
+    "BlightCraftingResultsKey": 395,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 396,
+    "Id": "InverseWeighting369",
+    "BlightCraftingItemsKeys": [
+      6,
+      13,
+      15
+    ],
+    "BlightCraftingResultsKey": 396,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 397,
+    "Id": "InverseWeighting369_2",
+    "BlightCraftingItemsKeys": [
+      7,
+      14,
+      14
+    ],
+    "BlightCraftingResultsKey": 397,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 398,
+    "Id": "InverseWeighting371",
+    "BlightCraftingItemsKeys": [
+      9,
+      13,
+      15
+    ],
+    "BlightCraftingResultsKey": 399,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 399,
+    "Id": "InverseWeighting372",
+    "BlightCraftingItemsKeys": [
+      7,
+      13,
+      15
+    ],
+    "BlightCraftingResultsKey": 398,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 400,
+    "Id": "InverseWeighting374",
+    "BlightCraftingItemsKeys": [
+      8,
+      14,
+      14
+    ],
+    "BlightCraftingResultsKey": 400,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 401,
+    "Id": "InverseWeighting377",
+    "BlightCraftingItemsKeys": [
+      8,
+      13,
+      15
+    ],
+    "BlightCraftingResultsKey": 401,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 402,
+    "Id": "InverseWeighting380",
+    "BlightCraftingItemsKeys": [
+      12,
+      13,
+      14
+    ],
+    "BlightCraftingResultsKey": 402,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 403,
+    "Id": "InverseWeighting382",
+    "BlightCraftingItemsKeys": [
+      10,
+      14,
+      14
+    ],
+    "BlightCraftingResultsKey": 403,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 404,
+    "Id": "InverseWeighting385",
+    "BlightCraftingItemsKeys": [
+      10,
+      13,
+      15
+    ],
+    "BlightCraftingResultsKey": 404,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 405,
+    "Id": "InverseWeighting400",
+    "BlightCraftingItemsKeys": [
+      11,
+      14,
+      14
+    ],
+    "BlightCraftingResultsKey": 405,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 406,
+    "Id": "InverseWeighting403",
+    "BlightCraftingItemsKeys": [
+      11,
+      13,
+      15
+    ],
+    "BlightCraftingResultsKey": 406,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 407,
+    "Id": "InverseWeighting403_2",
+    "BlightCraftingItemsKeys": [
+      12,
+      12,
+      15
+    ],
+    "BlightCraftingResultsKey": 407,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 408,
+    "Id": "InverseWeighting420",
+    "BlightCraftingItemsKeys": [
+      13,
+      13,
+      14
+    ],
+    "BlightCraftingResultsKey": 408,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 409,
+    "Id": "InverseWeighting424",
+    "BlightCraftingItemsKeys": [
+      3,
+      14,
+      15
+    ],
+    "BlightCraftingResultsKey": 409,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 410,
+    "Id": "InverseWeighting425",
+    "BlightCraftingItemsKeys": [
+      4,
+      14,
+      15
+    ],
+    "BlightCraftingResultsKey": 410,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 411,
+    "Id": "InverseWeighting427",
+    "BlightCraftingItemsKeys": [
+      5,
+      14,
+      15
+    ],
+    "BlightCraftingResultsKey": 411,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 412,
+    "Id": "InverseWeighting429",
+    "BlightCraftingItemsKeys": [
+      6,
+      14,
+      15
+    ],
+    "BlightCraftingResultsKey": 412,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 413,
+    "Id": "InverseWeighting429_2",
+    "BlightCraftingItemsKeys": [
+      9,
+      14,
+      15
+    ],
+    "BlightCraftingResultsKey": 413,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 414,
+    "Id": "InverseWeighting432",
+    "BlightCraftingItemsKeys": [
+      7,
+      14,
+      15
+    ],
+    "BlightCraftingResultsKey": 414,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 415,
+    "Id": "InverseWeighting437",
+    "BlightCraftingItemsKeys": [
+      8,
+      14,
+      15
+    ],
+    "BlightCraftingResultsKey": 415,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 416,
+    "Id": "InverseWeighting440",
+    "BlightCraftingItemsKeys": [
+      12,
+      14,
+      14
+    ],
+    "BlightCraftingResultsKey": 416,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 417,
+    "Id": "InverseWeighting443",
+    "BlightCraftingItemsKeys": [
+      12,
+      13,
+      15
+    ],
+    "BlightCraftingResultsKey": 417,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 418,
+    "Id": "InverseWeighting445",
+    "BlightCraftingItemsKeys": [
+      10,
+      14,
+      15
+    ],
+    "BlightCraftingResultsKey": 418,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 419,
+    "Id": "InverseWeighting463",
+    "BlightCraftingItemsKeys": [
+      11,
+      14,
+      15
+    ],
+    "BlightCraftingResultsKey": 419,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 420,
+    "Id": "InverseWeighting480",
+    "BlightCraftingItemsKeys": [
+      13,
+      14,
+      14
+    ],
+    "BlightCraftingResultsKey": 420,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 421,
+    "Id": "InverseWeighting483",
+    "BlightCraftingItemsKeys": [
+      13,
+      13,
+      15
+    ],
+    "BlightCraftingResultsKey": 421,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 422,
+    "Id": "InverseWeighting487",
+    "BlightCraftingItemsKeys": [
+      3,
+      15,
+      15
+    ],
+    "BlightCraftingResultsKey": 422,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 423,
+    "Id": "InverseWeighting488",
+    "BlightCraftingItemsKeys": [
+      4,
+      15,
+      15
+    ],
+    "BlightCraftingResultsKey": 423,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 424,
+    "Id": "InverseWeighting490",
+    "BlightCraftingItemsKeys": [
+      5,
+      15,
+      15
+    ],
+    "BlightCraftingResultsKey": 424,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 425,
+    "Id": "InverseWeighting490_2",
+    "BlightCraftingItemsKeys": [
+      9,
+      15,
+      15
+    ],
+    "BlightCraftingResultsKey": 425,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 426,
+    "Id": "InverseWeighting492",
+    "BlightCraftingItemsKeys": [
+      6,
+      15,
+      15
+    ],
+    "BlightCraftingResultsKey": 426,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 427,
+    "Id": "InverseWeighting495",
+    "BlightCraftingItemsKeys": [
+      7,
+      15,
+      15
+    ],
+    "BlightCraftingResultsKey": 427,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 428,
+    "Id": "InverseWeighting500",
+    "BlightCraftingItemsKeys": [
+      8,
+      15,
+      15
+    ],
+    "BlightCraftingResultsKey": 428,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 429,
+    "Id": "InverseWeighting503",
+    "BlightCraftingItemsKeys": [
+      12,
+      14,
+      15
+    ],
+    "BlightCraftingResultsKey": 429,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 430,
+    "Id": "InverseWeighting508",
+    "BlightCraftingItemsKeys": [
+      10,
+      15,
+      15
+    ],
+    "BlightCraftingResultsKey": 430,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 431,
+    "Id": "InverseWeighting526",
+    "BlightCraftingItemsKeys": [
+      11,
+      15,
+      15
+    ],
+    "BlightCraftingResultsKey": 431,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 432,
+    "Id": "InverseWeighting540",
+    "BlightCraftingItemsKeys": [
+      14,
+      14,
+      14
+    ],
+    "BlightCraftingResultsKey": 432,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 433,
+    "Id": "InverseWeighting543",
+    "BlightCraftingItemsKeys": [
+      13,
+      14,
+      15
+    ],
+    "BlightCraftingResultsKey": 433,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 434,
+    "Id": "InverseWeighting566",
+    "BlightCraftingItemsKeys": [
+      12,
+      15,
+      15
+    ],
+    "BlightCraftingResultsKey": 434,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 435,
+    "Id": "InverseWeighting603",
+    "BlightCraftingItemsKeys": [
+      14,
+      14,
+      15
+    ],
+    "BlightCraftingResultsKey": 435,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 436,
+    "Id": "InverseWeighting606",
+    "BlightCraftingItemsKeys": [
+      13,
+      15,
+      15
+    ],
+    "BlightCraftingResultsKey": 436,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 437,
+    "Id": "InverseWeighting666",
+    "BlightCraftingItemsKeys": [
+      14,
+      15,
+      15
+    ],
+    "BlightCraftingResultsKey": 437,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 438,
+    "Id": "InverseWeighting729",
+    "BlightCraftingItemsKeys": [
+      15,
+      15,
+      15
+    ],
+    "BlightCraftingResultsKey": 438,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 439,
+    "Id": "RingInverseWeighting2",
+    "BlightCraftingItemsKeys": [
+      3,
+      3
+    ],
+    "BlightCraftingResultsKey": 439,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 440,
+    "Id": "RingInverseWeighting3",
+    "BlightCraftingItemsKeys": [
+      3,
+      4
+    ],
+    "BlightCraftingResultsKey": 440,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 441,
+    "Id": "RingInverseWeighting4",
+    "BlightCraftingItemsKeys": [
+      4,
+      4
+    ],
+    "BlightCraftingResultsKey": 441,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 442,
+    "Id": "RingInverseWeighting5",
+    "BlightCraftingItemsKeys": [
+      3,
+      5
+    ],
+    "BlightCraftingResultsKey": 442,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 443,
+    "Id": "RingInverseWeighting6",
+    "BlightCraftingItemsKeys": [
+      4,
+      5
+    ],
+    "BlightCraftingResultsKey": 443,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 444,
+    "Id": "RingInverseWeighting7",
+    "BlightCraftingItemsKeys": [
+      3,
+      6
+    ],
+    "BlightCraftingResultsKey": 444,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 445,
+    "Id": "RingInverseWeighting8",
+    "BlightCraftingItemsKeys": [
+      4,
+      6
+    ],
+    "BlightCraftingResultsKey": 445,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 446,
+    "Id": "RingInverseWeighting8_2",
+    "BlightCraftingItemsKeys": [
+      5,
+      5
+    ],
+    "BlightCraftingResultsKey": 446,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 447,
+    "Id": "RingInverseWeighting10",
+    "BlightCraftingItemsKeys": [
+      3,
+      7
+    ],
+    "BlightCraftingResultsKey": 447,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 448,
+    "Id": "RingInverseWeighting10_2",
+    "BlightCraftingItemsKeys": [
+      5,
+      6
+    ],
+    "BlightCraftingResultsKey": 448,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 449,
+    "Id": "RingInverseWeighting11",
+    "BlightCraftingItemsKeys": [
+      4,
+      7
+    ],
+    "BlightCraftingResultsKey": 449,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 450,
+    "Id": "RingInverseWeighting12",
+    "BlightCraftingItemsKeys": [
+      6,
+      6
+    ],
+    "BlightCraftingResultsKey": 450,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 451,
+    "Id": "RingInverseWeighting13",
+    "BlightCraftingItemsKeys": [
+      5,
+      7
+    ],
+    "BlightCraftingResultsKey": 451,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 452,
+    "Id": "RingInverseWeighting15",
+    "BlightCraftingItemsKeys": [
+      3,
+      8
+    ],
+    "BlightCraftingResultsKey": 452,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 453,
+    "Id": "RingInverseWeighting15_2",
+    "BlightCraftingItemsKeys": [
+      6,
+      7
+    ],
+    "BlightCraftingResultsKey": 453,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 454,
+    "Id": "RingInverseWeighting16",
+    "BlightCraftingItemsKeys": [
+      4,
+      8
+    ],
+    "BlightCraftingResultsKey": 454,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 455,
+    "Id": "RingInverseWeighting18",
+    "BlightCraftingItemsKeys": [
+      5,
+      8
+    ],
+    "BlightCraftingResultsKey": 455,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 456,
+    "Id": "RingInverseWeighting18_2",
+    "BlightCraftingItemsKeys": [
+      7,
+      7
+    ],
+    "BlightCraftingResultsKey": 456,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 457,
+    "Id": "RingInverseWeighting20",
+    "BlightCraftingItemsKeys": [
+      6,
+      8
+    ],
+    "BlightCraftingResultsKey": 457,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 458,
+    "Id": "RingInverseWeighting23",
+    "BlightCraftingItemsKeys": [
+      3,
+      10
+    ],
+    "BlightCraftingResultsKey": 458,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 459,
+    "Id": "RingInverseWeighting23_2",
+    "BlightCraftingItemsKeys": [
+      7,
+      8
+    ],
+    "BlightCraftingResultsKey": 459,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 460,
+    "Id": "RingInverseWeighting24",
+    "BlightCraftingItemsKeys": [
+      4,
+      10
+    ],
+    "BlightCraftingResultsKey": 460,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 461,
+    "Id": "RingInverseWeighting26",
+    "BlightCraftingItemsKeys": [
+      5,
+      10
+    ],
+    "BlightCraftingResultsKey": 461,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 462,
+    "Id": "RingInverseWeighting28",
+    "BlightCraftingItemsKeys": [
+      6,
+      10
+    ],
+    "BlightCraftingResultsKey": 462,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 463,
+    "Id": "RingInverseWeighting28_2",
+    "BlightCraftingItemsKeys": [
+      8,
+      8
+    ],
+    "BlightCraftingResultsKey": 463,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 464,
+    "Id": "RingInverseWeighting31",
+    "BlightCraftingItemsKeys": [
+      7,
+      10
+    ],
+    "BlightCraftingResultsKey": 464,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 465,
+    "Id": "RingInverseWeighting36",
+    "BlightCraftingItemsKeys": [
+      8,
+      10
+    ],
+    "BlightCraftingResultsKey": 465,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 466,
+    "Id": "RingInverseWeighting41",
+    "BlightCraftingItemsKeys": [
+      3,
+      11
+    ],
+    "BlightCraftingResultsKey": 466,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 467,
+    "Id": "RingInverseWeighting42",
+    "BlightCraftingItemsKeys": [
+      4,
+      11
+    ],
+    "BlightCraftingResultsKey": 467,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 468,
+    "Id": "RingInverseWeighting44",
+    "BlightCraftingItemsKeys": [
+      5,
+      11
+    ],
+    "BlightCraftingResultsKey": 468,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 469,
+    "Id": "RingInverseWeighting44_2",
+    "BlightCraftingItemsKeys": [
+      10,
+      10
+    ],
+    "BlightCraftingResultsKey": 469,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 470,
+    "Id": "RingInverseWeighting46",
+    "BlightCraftingItemsKeys": [
+      6,
+      11
+    ],
+    "BlightCraftingResultsKey": 470,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 471,
+    "Id": "RingInverseWeighting49",
+    "BlightCraftingItemsKeys": [
+      7,
+      11
+    ],
+    "BlightCraftingResultsKey": 471,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 472,
+    "Id": "RingInverseWeighting54",
+    "BlightCraftingItemsKeys": [
+      8,
+      11
+    ],
+    "BlightCraftingResultsKey": 472,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 473,
+    "Id": "RingInverseWeighting62",
+    "BlightCraftingItemsKeys": [
+      10,
+      11
+    ],
+    "BlightCraftingResultsKey": 473,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 474,
+    "Id": "RingInverseWeighting80",
+    "BlightCraftingItemsKeys": [
+      11,
+      11
+    ],
+    "BlightCraftingResultsKey": 474,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 475,
+    "Id": "RingInverseWeighting81",
+    "BlightCraftingItemsKeys": [
+      3,
+      12
+    ],
+    "BlightCraftingResultsKey": 475,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 476,
+    "Id": "RingInverseWeighting82",
+    "BlightCraftingItemsKeys": [
+      4,
+      12
+    ],
+    "BlightCraftingResultsKey": 476,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 477,
+    "Id": "RingInverseWeighting84",
+    "BlightCraftingItemsKeys": [
+      5,
+      12
+    ],
+    "BlightCraftingResultsKey": 477,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 478,
+    "Id": "RingInverseWeighting86",
+    "BlightCraftingItemsKeys": [
+      6,
+      12
+    ],
+    "BlightCraftingResultsKey": 478,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 479,
+    "Id": "RingInverseWeighting89",
+    "BlightCraftingItemsKeys": [
+      7,
+      12
+    ],
+    "BlightCraftingResultsKey": 479,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 480,
+    "Id": "RingInverseWeighting94",
+    "BlightCraftingItemsKeys": [
+      8,
+      12
+    ],
+    "BlightCraftingResultsKey": 480,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 481,
+    "Id": "RingInverseWeighting102",
+    "BlightCraftingItemsKeys": [
+      10,
+      12
+    ],
+    "BlightCraftingResultsKey": 481,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 482,
+    "Id": "RingInverseWeighting120",
+    "BlightCraftingItemsKeys": [
+      11,
+      12
+    ],
+    "BlightCraftingResultsKey": 482,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 483,
+    "Id": "RingInverseWeighting121",
+    "BlightCraftingItemsKeys": [
+      3,
+      13
+    ],
+    "BlightCraftingResultsKey": 483,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 484,
+    "Id": "RingInverseWeighting122",
+    "BlightCraftingItemsKeys": [
+      4,
+      13
+    ],
+    "BlightCraftingResultsKey": 484,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 485,
+    "Id": "RingInverseWeighting124",
+    "BlightCraftingItemsKeys": [
+      5,
+      13
+    ],
+    "BlightCraftingResultsKey": 485,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 486,
+    "Id": "RingInverseWeighting126",
+    "BlightCraftingItemsKeys": [
+      6,
+      13
+    ],
+    "BlightCraftingResultsKey": 486,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 487,
+    "Id": "RingInverseWeighting129",
+    "BlightCraftingItemsKeys": [
+      7,
+      13
+    ],
+    "BlightCraftingResultsKey": 487,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 488,
+    "Id": "RingInverseWeighting134",
+    "BlightCraftingItemsKeys": [
+      8,
+      13
+    ],
+    "BlightCraftingResultsKey": 488,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 489,
+    "Id": "RingInverseWeighting142",
+    "BlightCraftingItemsKeys": [
+      10,
+      13
+    ],
+    "BlightCraftingResultsKey": 489,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 490,
+    "Id": "RingInverseWeighting160",
+    "BlightCraftingItemsKeys": [
+      11,
+      13
+    ],
+    "BlightCraftingResultsKey": 490,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 491,
+    "Id": "RingInverseWeighting160_2",
+    "BlightCraftingItemsKeys": [
+      12,
+      12
+    ],
+    "BlightCraftingResultsKey": 491,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 492,
+    "Id": "RingInverseWeighting181",
+    "BlightCraftingItemsKeys": [
+      3,
+      14
+    ],
+    "BlightCraftingResultsKey": 492,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 493,
+    "Id": "RingInverseWeighting182",
+    "BlightCraftingItemsKeys": [
+      4,
+      14
+    ],
+    "BlightCraftingResultsKey": 493,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 494,
+    "Id": "RingInverseWeighting184",
+    "BlightCraftingItemsKeys": [
+      5,
+      14
+    ],
+    "BlightCraftingResultsKey": 494,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 495,
+    "Id": "RingInverseWeighting186",
+    "BlightCraftingItemsKeys": [
+      6,
+      14
+    ],
+    "BlightCraftingResultsKey": 495,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 496,
+    "Id": "RingInverseWeighting189",
+    "BlightCraftingItemsKeys": [
+      7,
+      14
+    ],
+    "BlightCraftingResultsKey": 496,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 497,
+    "Id": "RingInverseWeighting194",
+    "BlightCraftingItemsKeys": [
+      8,
+      14
+    ],
+    "BlightCraftingResultsKey": 497,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 498,
+    "Id": "RingInverseWeighting200",
+    "BlightCraftingItemsKeys": [
+      12,
+      13
+    ],
+    "BlightCraftingResultsKey": 498,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 499,
+    "Id": "RingInverseWeighting202",
+    "BlightCraftingItemsKeys": [
+      10,
+      14
+    ],
+    "BlightCraftingResultsKey": 499,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 500,
+    "Id": "RingInverseWeighting220",
+    "BlightCraftingItemsKeys": [
+      11,
+      14
+    ],
+    "BlightCraftingResultsKey": 500,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 501,
+    "Id": "RingInverseWeighting240",
+    "BlightCraftingItemsKeys": [
+      13,
+      13
+    ],
+    "BlightCraftingResultsKey": 501,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 502,
+    "Id": "RingInverseWeighting244",
+    "BlightCraftingItemsKeys": [
+      3,
+      15
+    ],
+    "BlightCraftingResultsKey": 502,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 503,
+    "Id": "RingInverseWeighting245",
+    "BlightCraftingItemsKeys": [
+      4,
+      15
+    ],
+    "BlightCraftingResultsKey": 503,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 504,
+    "Id": "RingInverseWeighting247",
+    "BlightCraftingItemsKeys": [
+      5,
+      15
+    ],
+    "BlightCraftingResultsKey": 504,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 505,
+    "Id": "RingInverseWeighting249",
+    "BlightCraftingItemsKeys": [
+      6,
+      15
+    ],
+    "BlightCraftingResultsKey": 505,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 506,
+    "Id": "RingInverseWeighting252",
+    "BlightCraftingItemsKeys": [
+      7,
+      15
+    ],
+    "BlightCraftingResultsKey": 506,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 507,
+    "Id": "RingInverseWeighting257",
+    "BlightCraftingItemsKeys": [
+      8,
+      15
+    ],
+    "BlightCraftingResultsKey": 507,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 508,
+    "Id": "RingInverseWeighting260",
+    "BlightCraftingItemsKeys": [
+      12,
+      14
+    ],
+    "BlightCraftingResultsKey": 508,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 509,
+    "Id": "RingInverseWeighting265",
+    "BlightCraftingItemsKeys": [
+      10,
+      15
+    ],
+    "BlightCraftingResultsKey": 509,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 510,
+    "Id": "RingInverseWeighting283",
+    "BlightCraftingItemsKeys": [
+      11,
+      15
+    ],
+    "BlightCraftingResultsKey": 510,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 511,
+    "Id": "RingInverseWeighting300",
+    "BlightCraftingItemsKeys": [
+      13,
+      14
+    ],
+    "BlightCraftingResultsKey": 511,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 512,
+    "Id": "RingInverseWeighting323",
+    "BlightCraftingItemsKeys": [
+      12,
+      15
+    ],
+    "BlightCraftingResultsKey": 512,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 513,
+    "Id": "RingInverseWeighting360",
+    "BlightCraftingItemsKeys": [
+      14,
+      14
+    ],
+    "BlightCraftingResultsKey": 513,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 514,
+    "Id": "RingInverseWeighting363",
+    "BlightCraftingItemsKeys": [
+      13,
+      15
+    ],
+    "BlightCraftingResultsKey": 514,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 515,
+    "Id": "RingInverseWeighting423",
+    "BlightCraftingItemsKeys": [
+      14,
+      15
+    ],
+    "BlightCraftingResultsKey": 515,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 516,
+    "Id": "RingInverseWeighting486",
+    "BlightCraftingItemsKeys": [
+      15,
+      15
+    ],
+    "BlightCraftingResultsKey": 516,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 517,
+    "Id": "RingInverseWeighting501",
+    "BlightCraftingItemsKeys": [
+      3,
+      9
+    ],
+    "BlightCraftingResultsKey": 517,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 518,
+    "Id": "RingInverseWeighting502",
+    "BlightCraftingItemsKeys": [
+      4,
+      9
+    ],
+    "BlightCraftingResultsKey": 518,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 519,
+    "Id": "RingInverseWeighting503",
+    "BlightCraftingItemsKeys": [
+      5,
+      9
+    ],
+    "BlightCraftingResultsKey": 519,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 520,
+    "Id": "RingInverseWeighting504",
+    "BlightCraftingItemsKeys": [
+      6,
+      9
+    ],
+    "BlightCraftingResultsKey": 520,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 521,
+    "Id": "RingInverseWeighting505",
+    "BlightCraftingItemsKeys": [
+      7,
+      9
+    ],
+    "BlightCraftingResultsKey": 521,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 522,
+    "Id": "RingInverseWeighting506",
+    "BlightCraftingItemsKeys": [
+      8,
+      9
+    ],
+    "BlightCraftingResultsKey": 522,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 523,
+    "Id": "RingInverseWeighting507",
+    "BlightCraftingItemsKeys": [
+      9,
+      9
+    ],
+    "BlightCraftingResultsKey": 523,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 524,
+    "Id": "RingInverseWeighting508",
+    "BlightCraftingItemsKeys": [
+      9,
+      10
+    ],
+    "BlightCraftingResultsKey": 524,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 525,
+    "Id": "RingInverseWeighting509",
+    "BlightCraftingItemsKeys": [
+      9,
+      11
+    ],
+    "BlightCraftingResultsKey": 525,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 526,
+    "Id": "RingInverseWeighting510",
+    "BlightCraftingItemsKeys": [
+      9,
+      12
+    ],
+    "BlightCraftingResultsKey": 526,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 527,
+    "Id": "RingInverseWeighting511",
+    "BlightCraftingItemsKeys": [
+      9,
+      13
+    ],
+    "BlightCraftingResultsKey": 527,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 528,
+    "Id": "RingInverseWeighting512",
+    "BlightCraftingItemsKeys": [
+      9,
+      14
+    ],
+    "BlightCraftingResultsKey": 528,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 529,
+    "Id": "RingInverseWeighting513",
+    "BlightCraftingItemsKeys": [
+      9,
+      15
+    ],
+    "BlightCraftingResultsKey": 529,
+    "BlightCraftingTypesKey": 1
+  },
+  {
+    "_rid": 530,
+    "Id": "BlightedMapMod1",
+    "BlightCraftingItemsKeys": [
+      3
+    ],
+    "BlightCraftingResultsKey": 530,
+    "BlightCraftingTypesKey": 2
+  },
+  {
+    "_rid": 531,
+    "Id": "BlightedMapMod2",
+    "BlightCraftingItemsKeys": [
+      4
+    ],
+    "BlightCraftingResultsKey": 531,
+    "BlightCraftingTypesKey": 2
+  },
+  {
+    "_rid": 532,
+    "Id": "BlightedMapMod3",
+    "BlightCraftingItemsKeys": [
+      5
+    ],
+    "BlightCraftingResultsKey": 532,
+    "BlightCraftingTypesKey": 2
+  },
+  {
+    "_rid": 533,
+    "Id": "BlightedMapMod4",
+    "BlightCraftingItemsKeys": [
+      6
+    ],
+    "BlightCraftingResultsKey": 533,
+    "BlightCraftingTypesKey": 2
+  },
+  {
+    "_rid": 534,
+    "Id": "BlightedMapMod5",
+    "BlightCraftingItemsKeys": [
+      7
+    ],
+    "BlightCraftingResultsKey": 534,
+    "BlightCraftingTypesKey": 2
+  },
+  {
+    "_rid": 535,
+    "Id": "BlightedMapMod6",
+    "BlightCraftingItemsKeys": [
+      8
+    ],
+    "BlightCraftingResultsKey": 535,
+    "BlightCraftingTypesKey": 2
+  },
+  {
+    "_rid": 536,
+    "Id": "BlightedMapMod6b",
+    "BlightCraftingItemsKeys": [
+      9
+    ],
+    "BlightCraftingResultsKey": 536,
+    "BlightCraftingTypesKey": 2
+  },
+  {
+    "_rid": 537,
+    "Id": "BlightedMapMod7",
+    "BlightCraftingItemsKeys": [
+      10
+    ],
+    "BlightCraftingResultsKey": 537,
+    "BlightCraftingTypesKey": 2
+  },
+  {
+    "_rid": 538,
+    "Id": "BlightedMapMod8",
+    "BlightCraftingItemsKeys": [
+      11
+    ],
+    "BlightCraftingResultsKey": 538,
+    "BlightCraftingTypesKey": 2
+  },
+  {
+    "_rid": 539,
+    "Id": "BlightedMapMod9",
+    "BlightCraftingItemsKeys": [
+      12
+    ],
+    "BlightCraftingResultsKey": 539,
+    "BlightCraftingTypesKey": 2
+  },
+  {
+    "_rid": 540,
+    "Id": "BlightedMapMod10",
+    "BlightCraftingItemsKeys": [
+      13
+    ],
+    "BlightCraftingResultsKey": 540,
+    "BlightCraftingTypesKey": 2
+  },
+  {
+    "_rid": 541,
+    "Id": "BlightedMapMod11",
+    "BlightCraftingItemsKeys": [
+      14
+    ],
+    "BlightCraftingResultsKey": 541,
+    "BlightCraftingTypesKey": 2
+  },
+  {
+    "_rid": 542,
+    "Id": "BlightedMapMod12",
+    "BlightCraftingItemsKeys": [
+      15
+    ],
+    "BlightCraftingResultsKey": 542,
+    "BlightCraftingTypesKey": 2
+  },
+  {
+    "_rid": 543,
+    "Id": "OffTreeAnoint1",
+    "BlightCraftingItemsKeys": [
+      2,
+      12,
+      14
+    ],
+    "BlightCraftingResultsKey": 543,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 544,
+    "Id": "OffTreeAnoint2",
+    "BlightCraftingItemsKeys": [
+      2,
+      11,
+      15
+    ],
+    "BlightCraftingResultsKey": 544,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 545,
+    "Id": "OffTreeAnoint3",
+    "BlightCraftingItemsKeys": [
+      2,
+      11,
+      12
+    ],
+    "BlightCraftingResultsKey": 545,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 546,
+    "Id": "OffTreeAnoint4",
+    "BlightCraftingItemsKeys": [
+      2,
+      11,
+      14
+    ],
+    "BlightCraftingResultsKey": 546,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 547,
+    "Id": "OffTreeAnoint5",
+    "BlightCraftingItemsKeys": [
+      2,
+      13,
+      13
+    ],
+    "BlightCraftingResultsKey": 547,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 548,
+    "Id": "OffTreeAnoint6",
+    "BlightCraftingItemsKeys": [
+      2,
+      10,
+      13
+    ],
+    "BlightCraftingResultsKey": 548,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 549,
+    "Id": "OffTreeAnoint7",
+    "BlightCraftingItemsKeys": [
+      2,
+      12,
+      12
+    ],
+    "BlightCraftingResultsKey": 549,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 550,
+    "Id": "OffTreeAnoint8",
+    "BlightCraftingItemsKeys": [
+      2,
+      8,
+      14
+    ],
+    "BlightCraftingResultsKey": 550,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 551,
+    "Id": "OffTreeAnoint9",
+    "BlightCraftingItemsKeys": [
+      2,
+      8,
+      12
+    ],
+    "BlightCraftingResultsKey": 551,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 552,
+    "Id": "OffTreeAnoint10",
+    "BlightCraftingItemsKeys": [
+      2,
+      11,
+      11
+    ],
+    "BlightCraftingResultsKey": 552,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 553,
+    "Id": "OffTreeAnoint11",
+    "BlightCraftingItemsKeys": [
+      2,
+      10,
+      11
+    ],
+    "BlightCraftingResultsKey": 553,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 554,
+    "Id": "OffTreeAnoint12",
+    "BlightCraftingItemsKeys": [
+      2,
+      9,
+      14
+    ],
+    "BlightCraftingResultsKey": 554,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 555,
+    "Id": "OffTreeAnoint13",
+    "BlightCraftingItemsKeys": [
+      2,
+      9,
+      15
+    ],
+    "BlightCraftingResultsKey": 555,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 556,
+    "Id": "OffTreeAnoint14",
+    "BlightCraftingItemsKeys": [
+      2,
+      12,
+      15
+    ],
+    "BlightCraftingResultsKey": 556,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 557,
+    "Id": "OffTreeAnoint15",
+    "BlightCraftingItemsKeys": [
+      2,
+      10,
+      14
+    ],
+    "BlightCraftingResultsKey": 557,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 558,
+    "Id": "OffTreeAnoint16",
+    "BlightCraftingItemsKeys": [
+      2,
+      13,
+      14
+    ],
+    "BlightCraftingResultsKey": 558,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 559,
+    "Id": "OffTreeAnoint17",
+    "BlightCraftingItemsKeys": [
+      2,
+      14,
+      14
+    ],
+    "BlightCraftingResultsKey": 559,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 560,
+    "Id": "OffTreeAnoint18",
+    "BlightCraftingItemsKeys": [
+      2,
+      11,
+      13
+    ],
+    "BlightCraftingResultsKey": 560,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 561,
+    "Id": "OffTreeAnoint19",
+    "BlightCraftingItemsKeys": [
+      2,
+      8,
+      11
+    ],
+    "BlightCraftingResultsKey": 561,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 562,
+    "Id": "OffTreeAnoint20",
+    "BlightCraftingItemsKeys": [
+      2,
+      9,
+      13
+    ],
+    "BlightCraftingResultsKey": 562,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 563,
+    "Id": "OffTreeAnoint21",
+    "BlightCraftingItemsKeys": [
+      2,
+      10,
+      10
+    ],
+    "BlightCraftingResultsKey": 563,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 564,
+    "Id": "OffTreeAnoint22",
+    "BlightCraftingItemsKeys": [
+      2,
+      8,
+      15
+    ],
+    "BlightCraftingResultsKey": 564,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 565,
+    "Id": "OffTreeAnoint23",
+    "BlightCraftingItemsKeys": [
+      2,
+      9,
+      11
+    ],
+    "BlightCraftingResultsKey": 565,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 566,
+    "Id": "OffTreeAnoint24",
+    "BlightCraftingItemsKeys": [
+      2,
+      12,
+      13
+    ],
+    "BlightCraftingResultsKey": 566,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 567,
+    "Id": "OffTreeAnoint25",
+    "BlightCraftingItemsKeys": [
+      2,
+      8,
+      13
+    ],
+    "BlightCraftingResultsKey": 567,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 568,
+    "Id": "OffTreeAnoint26",
+    "BlightCraftingItemsKeys": [
+      2,
+      9,
+      12
+    ],
+    "BlightCraftingResultsKey": 568,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 569,
+    "Id": "OffTreeAnoint27",
+    "BlightCraftingItemsKeys": [
+      2,
+      14,
+      15
+    ],
+    "BlightCraftingResultsKey": 569,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 570,
+    "Id": "OffTreeAnoint28",
+    "BlightCraftingItemsKeys": [
+      2,
+      10,
+      15
+    ],
+    "BlightCraftingResultsKey": 570,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 571,
+    "Id": "OffTreeAnoint29",
+    "BlightCraftingItemsKeys": [
+      2,
+      15,
+      15
+    ],
+    "BlightCraftingResultsKey": 571,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 572,
+    "Id": "OffTreeAnoint30",
+    "BlightCraftingItemsKeys": [
+      2,
+      13,
+      15
+    ],
+    "BlightCraftingResultsKey": 572,
+    "BlightCraftingTypesKey": 0
+  },
+  {
+    "_rid": 573,
+    "Id": "OffTreeAnoint31",
+    "BlightCraftingItemsKeys": [
+      2,
+      2,
+      2
+    ],
+    "BlightCraftingResultsKey": 573,
+    "BlightCraftingTypesKey": 0
+  }
+]

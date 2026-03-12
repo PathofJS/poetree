@@ -1,0 +1,20 @@
+[
+  {
+    "_rid": 0,
+    "Id": "UniqueOrAmulet",
+    "Unknown2": 3,
+    "Unknown3": false
+  },
+  {
+    "_rid": 1,
+    "Id": "Ring",
+    "Unknown2": 2,
+    "Unknown3": false
+  },
+  {
+    "_rid": 2,
+    "Id": "InfectedMap",
+    "Unknown2": 3,
+    "Unknown3": true
+  }
+]

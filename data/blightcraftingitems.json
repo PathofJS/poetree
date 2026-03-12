@@ -1,0 +1,163 @@
+[
+  {
+    "_rid": 0,
+    "Oil": 3795,
+    "Tier": 0,
+    "Achievements": [
+      11091,
+      11078
+    ],
+    "UseType": 1,
+    "NameShort": "Tainted"
+  },
+  {
+    "_rid": 1,
+    "Oil": 3796,
+    "Tier": 0,
+    "Achievements": [
+      11091
+    ],
+    "UseType": 2,
+    "NameShort": "Reflective"
+  },
+  {
+    "_rid": 2,
+    "Oil": 3797,
+    "Tier": 0,
+    "Achievements": [
+      11091
+    ],
+    "UseType": 0,
+    "NameShort": "Prismatic"
+  },
+  {
+    "_rid": 3,
+    "Oil": 3798,
+    "Tier": 1,
+    "Achievements": [
+      11091
+    ],
+    "UseType": 0,
+    "NameShort": "Clear"
+  },
+  {
+    "_rid": 4,
+    "Oil": 3799,
+    "Tier": 2,
+    "Achievements": [
+      11091
+    ],
+    "UseType": 0,
+    "NameShort": "Sepia"
+  },
+  {
+    "_rid": 5,
+    "Oil": 3800,
+    "Tier": 3,
+    "Achievements": [
+      11091
+    ],
+    "UseType": 0,
+    "NameShort": "Amber"
+  },
+  {
+    "_rid": 6,
+    "Oil": 3801,
+    "Tier": 4,
+    "Achievements": [
+      11091
+    ],
+    "UseType": 0,
+    "NameShort": "Verdant"
+  },
+  {
+    "_rid": 7,
+    "Oil": 3802,
+    "Tier": 5,
+    "Achievements": [
+      11091
+    ],
+    "UseType": 0,
+    "NameShort": "Teal"
+  },
+  {
+    "_rid": 8,
+    "Oil": 3803,
+    "Tier": 6,
+    "Achievements": [
+      11091
+    ],
+    "UseType": 0,
+    "NameShort": "Azure"
+  },
+  {
+    "_rid": 9,
+    "Oil": 3804,
+    "Tier": 7,
+    "Achievements": [
+      11091
+    ],
+    "UseType": 0,
+    "NameShort": "Indigo"
+  },
+  {
+    "_rid": 10,
+    "Oil": 3805,
+    "Tier": 8,
+    "Achievements": [
+      11091
+    ],
+    "UseType": 0,
+    "NameShort": "Violet"
+  },
+  {
+    "_rid": 11,
+    "Oil": 3806,
+    "Tier": 9,
+    "Achievements": [
+      11091
+    ],
+    "UseType": 0,
+    "NameShort": "Crimson"
+  },
+  {
+    "_rid": 12,
+    "Oil": 3807,
+    "Tier": 10,
+    "Achievements": [
+      11091
+    ],
+    "UseType": 0,
+    "NameShort": "Black"
+  },
+  {
+    "_rid": 13,
+    "Oil": 3808,
+    "Tier": 11,
+    "Achievements": [
+      11091
+    ],
+    "UseType": 0,
+    "NameShort": "Opalescent"
+  },
+  {
+    "_rid": 14,
+    "Oil": 3809,
+    "Tier": 12,
+    "Achievements": [
+      11091
+    ],
+    "UseType": 0,
+    "NameShort": "Silver"
+  },
+  {
+    "_rid": 15,
+    "Oil": 3810,
+    "Tier": 13,
+    "Achievements": [
+      11091
+    ],
+    "UseType": 0,
+    "NameShort": "Golden"
+  }
+]

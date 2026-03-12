@@ -1,0 +1,3446 @@
+[
+  {
+    "_rid": 0,
+    "Id": "InverseWeighting3",
+    "Mod": null,
+    "PassiveSkill": 5027
+  },
+  {
+    "_rid": 1,
+    "Id": "InverseWeighting4",
+    "Mod": null,
+    "PassiveSkill": 5026
+  },
+  {
+    "_rid": 2,
+    "Id": "InverseWeighting5",
+    "Mod": null,
+    "PassiveSkill": 5024
+  },
+  {
+    "_rid": 3,
+    "Id": "InverseWeighting6",
+    "Mod": null,
+    "PassiveSkill": 5023
+  },
+  {
+    "_rid": 4,
+    "Id": "InverseWeighting6_2",
+    "Mod": null,
+    "PassiveSkill": 2506
+  },
+  {
+    "_rid": 5,
+    "Id": "InverseWeighting7",
+    "Mod": null,
+    "PassiveSkill": 5028
+  },
+  {
+    "_rid": 6,
+    "Id": "InverseWeighting8",
+    "Mod": null,
+    "PassiveSkill": 2509
+  },
+  {
+    "_rid": 7,
+    "Id": "InverseWeighting8_2",
+    "Mod": null,
+    "PassiveSkill": 5025
+  },
+  {
+    "_rid": 8,
+    "Id": "InverseWeighting9",
+    "Mod": null,
+    "PassiveSkill": 2561
+  },
+  {
+    "_rid": 9,
+    "Id": "InverseWeighting9_2",
+    "Mod": null,
+    "PassiveSkill": 2550
+  },
+  {
+    "_rid": 10,
+    "Id": "InverseWeighting10",
+    "Mod": null,
+    "PassiveSkill": 70
+  },
+  {
+    "_rid": 11,
+    "Id": "InverseWeighting10_2",
+    "Mod": null,
+    "PassiveSkill": 1348
+  },
+  {
+    "_rid": 12,
+    "Id": "InverseWeighting11",
+    "Mod": null,
+    "PassiveSkill": 2516
+  },
+  {
+    "_rid": 13,
+    "Id": "InverseWeighting11_2",
+    "Mod": null,
+    "PassiveSkill": 930
+  },
+  {
+    "_rid": 14,
+    "Id": "InverseWeighting12",
+    "Mod": null,
+    "PassiveSkill": 35
+  },
+  {
+    "_rid": 15,
+    "Id": "InverseWeighting12_2",
+    "Mod": null,
+    "PassiveSkill": 923
+  },
+  {
+    "_rid": 16,
+    "Id": "InverseWeighting12_3",
+    "Mod": null,
+    "PassiveSkill": 922
+  },
+  {
+    "_rid": 17,
+    "Id": "InverseWeighting13",
+    "Mod": null,
+    "PassiveSkill": 924
+  },
+  {
+    "_rid": 18,
+    "Id": "InverseWeighting13_2",
+    "Mod": null,
+    "PassiveSkill": 1171
+  },
+  {
+    "_rid": 19,
+    "Id": "InverseWeighting14",
+    "Mod": null,
+    "PassiveSkill": 891
+  },
+  {
+    "_rid": 20,
+    "Id": "InverseWeighting14_2",
+    "Mod": null,
+    "PassiveSkill": 101
+  },
+  {
+    "_rid": 21,
+    "Id": "InverseWeighting14_3",
+    "Mod": null,
+    "PassiveSkill": 1113
+  },
+  {
+    "_rid": 22,
+    "Id": "InverseWeighting15",
+    "Mod": null,
+    "PassiveSkill": 314
+  },
+  {
+    "_rid": 23,
+    "Id": "InverseWeighting16",
+    "Mod": null,
+    "PassiveSkill": 863
+  },
+  {
+    "_rid": 24,
+    "Id": "InverseWeighting16_2",
+    "Mod": null,
+    "PassiveSkill": 1172
+  },
+  {
+    "_rid": 25,
+    "Id": "InverseWeighting16_3",
+    "Mod": null,
+    "PassiveSkill": 350
+  },
+  {
+    "_rid": 26,
+    "Id": "InverseWeighting17",
+    "Mod": null,
+    "PassiveSkill": 1073
+  },
+  {
+    "_rid": 27,
+    "Id": "InverseWeighting17_2",
+    "Mod": null,
+    "PassiveSkill": 963
+  },
+  {
+    "_rid": 28,
+    "Id": "InverseWeighting17_3",
+    "Mod": null,
+    "PassiveSkill": 1092
+  },
+  {
+    "_rid": 29,
+    "Id": "InverseWeighting18",
+    "Mod": null,
+    "PassiveSkill": 2333
+  },
+  {
+    "_rid": 30,
+    "Id": "InverseWeighting18_2",
+    "Mod": null,
+    "PassiveSkill": 1300
+  },
+  {
+    "_rid": 31,
+    "Id": "InverseWeighting19",
+    "Mod": null,
+    "PassiveSkill": 248
+  },
+  {
+    "_rid": 32,
+    "Id": "InverseWeighting19_2",
+    "Mod": null,
+    "PassiveSkill": 921
+  },
+  {
+    "_rid": 33,
+    "Id": "InverseWeighting19_3",
+    "Mod": null,
+    "PassiveSkill": 317
+  },
+  {
+    "_rid": 34,
+    "Id": "InverseWeighting20",
+    "Mod": null,
+    "PassiveSkill": 1791
+  },
+  {
+    "_rid": 35,
+    "Id": "InverseWeighting20_2",
+    "Mod": null,
+    "PassiveSkill": 540
+  },
+  {
+    "_rid": 36,
+    "Id": "InverseWeighting20_3",
+    "Mod": null,
+    "PassiveSkill": 2531
+  },
+  {
+    "_rid": 37,
+    "Id": "InverseWeighting21",
+    "Mod": null,
+    "PassiveSkill": 1072
+  },
+  {
+    "_rid": 38,
+    "Id": "InverseWeighting21_2",
+    "Mod": null,
+    "PassiveSkill": 707
+  },
+  {
+    "_rid": 39,
+    "Id": "InverseWeighting21_3",
+    "Mod": null,
+    "PassiveSkill": 2534
+  },
+  {
+    "_rid": 40,
+    "Id": "InverseWeighting22",
+    "Mod": null,
+    "PassiveSkill": 1074
+  },
+  {
+    "_rid": 41,
+    "Id": "InverseWeighting22_2",
+    "Mod": null,
+    "PassiveSkill": 1817
+  },
+  {
+    "_rid": 42,
+    "Id": "InverseWeighting22_3",
+    "Mod": null,
+    "PassiveSkill": 13
+  },
+  {
+    "_rid": 43,
+    "Id": "InverseWeighting22_4",
+    "Mod": null,
+    "PassiveSkill": 2461
+  },
+  {
+    "_rid": 44,
+    "Id": "InverseWeighting23",
+    "Mod": null,
+    "PassiveSkill": 2375
+  },
+  {
+    "_rid": 45,
+    "Id": "InverseWeighting24",
+    "Mod": null,
+    "PassiveSkill": 1034
+  },
+  {
+    "_rid": 46,
+    "Id": "InverseWeighting24_2",
+    "Mod": null,
+    "PassiveSkill": 789
+  },
+  {
+    "_rid": 47,
+    "Id": "InverseWeighting24_3",
+    "Mod": null,
+    "PassiveSkill": 332
+  },
+  {
+    "_rid": 48,
+    "Id": "InverseWeighting24_4",
+    "Mod": null,
+    "PassiveSkill": 148
+  },
+  {
+    "_rid": 49,
+    "Id": "InverseWeighting24_5",
+    "Mod": null,
+    "PassiveSkill": 2371
+  },
+  {
+    "_rid": 50,
+    "Id": "InverseWeighting25",
+    "Mod": null,
+    "PassiveSkill": 2031
+  },
+  {
+    "_rid": 51,
+    "Id": "InverseWeighting25_2",
+    "Mod": null,
+    "PassiveSkill": 1093
+  },
+  {
+    "_rid": 52,
+    "Id": "InverseWeighting25_3",
+    "Mod": null,
+    "PassiveSkill": 994
+  },
+  {
+    "_rid": 53,
+    "Id": "InverseWeighting26",
+    "Mod": null,
+    "PassiveSkill": 2234
+  },
+  {
+    "_rid": 54,
+    "Id": "InverseWeighting26_2",
+    "Mod": null,
+    "PassiveSkill": 170
+  },
+  {
+    "_rid": 55,
+    "Id": "InverseWeighting26_3",
+    "Mod": null,
+    "PassiveSkill": 2401
+  },
+  {
+    "_rid": 56,
+    "Id": "InverseWeighting26_4",
+    "Mod": null,
+    "PassiveSkill": 2542
+  },
+  {
+    "_rid": 57,
+    "Id": "InverseWeighting27",
+    "Mod": null,
+    "PassiveSkill": 340
+  },
+  {
+    "_rid": 58,
+    "Id": "InverseWeighting27_2",
+    "Mod": null,
+    "PassiveSkill": 2311
+  },
+  {
+    "_rid": 59,
+    "Id": "InverseWeighting27_3",
+    "Mod": null,
+    "PassiveSkill": 2212
+  },
+  {
+    "_rid": 60,
+    "Id": "InverseWeighting28",
+    "Mod": null,
+    "PassiveSkill": 888
+  },
+  {
+    "_rid": 61,
+    "Id": "InverseWeighting28_2",
+    "Mod": null,
+    "PassiveSkill": 2460
+  },
+  {
+    "_rid": 62,
+    "Id": "InverseWeighting28_3",
+    "Mod": null,
+    "PassiveSkill": 2483
+  },
+  {
+    "_rid": 63,
+    "Id": "InverseWeighting29",
+    "Mod": null,
+    "PassiveSkill": 200
+  },
+  {
+    "_rid": 64,
+    "Id": "InverseWeighting29_2",
+    "Mod": null,
+    "PassiveSkill": 2210
+  },
+  {
+    "_rid": 65,
+    "Id": "InverseWeighting29_3",
+    "Mod": null,
+    "PassiveSkill": 926
+  },
+  {
+    "_rid": 66,
+    "Id": "InverseWeighting29_4",
+    "Mod": null,
+    "PassiveSkill": 2422
+  },
+  {
+    "_rid": 67,
+    "Id": "InverseWeighting30",
+    "Mod": null,
+    "PassiveSkill": 261
+  },
+  {
+    "_rid": 68,
+    "Id": "InverseWeighting30_2",
+    "Mod": null,
+    "PassiveSkill": 124
+  },
+  {
+    "_rid": 69,
+    "Id": "InverseWeighting30_3",
+    "Mod": null,
+    "PassiveSkill": 991
+  },
+  {
+    "_rid": 70,
+    "Id": "InverseWeighting30_4",
+    "Mod": null,
+    "PassiveSkill": 1915
+  },
+  {
+    "_rid": 71,
+    "Id": "InverseWeighting31",
+    "Mod": null,
+    "PassiveSkill": 1945
+  },
+  {
+    "_rid": 72,
+    "Id": "InverseWeighting32",
+    "Mod": null,
+    "PassiveSkill": 2488
+  },
+  {
+    "_rid": 73,
+    "Id": "InverseWeighting32_2",
+    "Mod": null,
+    "PassiveSkill": 2027
+  },
+  {
+    "_rid": 74,
+    "Id": "InverseWeighting32_3",
+    "Mod": null,
+    "PassiveSkill": 1932
+  },
+  {
+    "_rid": 75,
+    "Id": "InverseWeighting32_4",
+    "Mod": null,
+    "PassiveSkill": 2186
+  },
+  {
+    "_rid": 76,
+    "Id": "InverseWeighting33",
+    "Mod": null,
+    "PassiveSkill": 2252
+  },
+  {
+    "_rid": 77,
+    "Id": "InverseWeighting33_2",
+    "Mod": null,
+    "PassiveSkill": 417
+  },
+  {
+    "_rid": 78,
+    "Id": "InverseWeighting34",
+    "Mod": null,
+    "PassiveSkill": 899
+  },
+  {
+    "_rid": 79,
+    "Id": "InverseWeighting34_2",
+    "Mod": null,
+    "PassiveSkill": 32
+  },
+  {
+    "_rid": 80,
+    "Id": "InverseWeighting35",
+    "Mod": null,
+    "PassiveSkill": 228
+  },
+  {
+    "_rid": 81,
+    "Id": "InverseWeighting36",
+    "Mod": null,
+    "PassiveSkill": 2556
+  },
+  {
+    "_rid": 82,
+    "Id": "InverseWeighting37",
+    "Mod": null,
+    "PassiveSkill": 1820
+  },
+  {
+    "_rid": 83,
+    "Id": "InverseWeighting37_2",
+    "Mod": null,
+    "PassiveSkill": 347
+  },
+  {
+    "_rid": 84,
+    "Id": "InverseWeighting37_3",
+    "Mod": null,
+    "PassiveSkill": 1858
+  },
+  {
+    "_rid": 85,
+    "Id": "InverseWeighting37_4",
+    "Mod": null,
+    "PassiveSkill": 1946
+  },
+  {
+    "_rid": 86,
+    "Id": "InverseWeighting38",
+    "Mod": null,
+    "PassiveSkill": 2129
+  },
+  {
+    "_rid": 87,
+    "Id": "InverseWeighting38_2",
+    "Mod": null,
+    "PassiveSkill": 178
+  },
+  {
+    "_rid": 88,
+    "Id": "InverseWeighting40",
+    "Mod": null,
+    "PassiveSkill": 2165
+  },
+  {
+    "_rid": 89,
+    "Id": "InverseWeighting40_2",
+    "Mod": null,
+    "PassiveSkill": 112
+  },
+  {
+    "_rid": 90,
+    "Id": "InverseWeighting40_3",
+    "Mod": null,
+    "PassiveSkill": 1343
+  },
+  {
+    "_rid": 91,
+    "Id": "InverseWeighting42",
+    "Mod": null,
+    "PassiveSkill": 2249
+  },
+  {
+    "_rid": 92,
+    "Id": "InverseWeighting42_2",
+    "Mod": null,
+    "PassiveSkill": 2064
+  },
+  {
+    "_rid": 93,
+    "Id": "InverseWeighting42_3",
+    "Mod": null,
+    "PassiveSkill": 45
+  },
+  {
+    "_rid": 94,
+    "Id": "InverseWeighting42_4",
+    "Mod": null,
+    "PassiveSkill": 1779
+  },
+  {
+    "_rid": 95,
+    "Id": "InverseWeighting41",
+    "Mod": null,
+    "PassiveSkill": 294
+  },
+  {
+    "_rid": 96,
+    "Id": "InverseWeighting45_4",
+    "Mod": null,
+    "PassiveSkill": 840
+  },
+  {
+    "_rid": 97,
+    "Id": "InverseWeighting44_2",
+    "Mod": null,
+    "PassiveSkill": 2073
+  },
+  {
+    "_rid": 98,
+    "Id": "InverseWeighting46_3",
+    "Mod": null,
+    "PassiveSkill": 2101
+  },
+  {
+    "_rid": 99,
+    "Id": "InverseWeighting43",
+    "Mod": null,
+    "PassiveSkill": 582
+  },
+  {
+    "_rid": 100,
+    "Id": "InverseWeighting44",
+    "Mod": null,
+    "PassiveSkill": 487
+  },
+  {
+    "_rid": 101,
+    "Id": "InverseWeighting45",
+    "Mod": null,
+    "PassiveSkill": 1853
+  },
+  {
+    "_rid": 102,
+    "Id": "InverseWeighting45_2",
+    "Mod": null,
+    "PassiveSkill": 2113
+  },
+  {
+    "_rid": 103,
+    "Id": "InverseWeighting45_3",
+    "Mod": null,
+    "PassiveSkill": 727
+  },
+  {
+    "_rid": 104,
+    "Id": "InverseWeighting46",
+    "Mod": null,
+    "PassiveSkill": 950
+  },
+  {
+    "_rid": 105,
+    "Id": "InverseWeighting46_2",
+    "Mod": null,
+    "PassiveSkill": 127
+  },
+  {
+    "_rid": 106,
+    "Id": "InverseWeighting47",
+    "Mod": null,
+    "PassiveSkill": 2244
+  },
+  {
+    "_rid": 107,
+    "Id": "InverseWeighting48",
+    "Mod": null,
+    "PassiveSkill": 2196
+  },
+  {
+    "_rid": 108,
+    "Id": "InverseWeighting48_2",
+    "Mod": null,
+    "PassiveSkill": 2133
+  },
+  {
+    "_rid": 109,
+    "Id": "InverseWeighting48_3",
+    "Mod": null,
+    "PassiveSkill": 259
+  },
+  {
+    "_rid": 110,
+    "Id": "InverseWeighting49",
+    "Mod": null,
+    "PassiveSkill": 2277
+  },
+  {
+    "_rid": 111,
+    "Id": "InverseWeighting50",
+    "Mod": null,
+    "PassiveSkill": 2182
+  },
+  {
+    "_rid": 112,
+    "Id": "InverseWeighting50_2",
+    "Mod": null,
+    "PassiveSkill": 892
+  },
+  {
+    "_rid": 113,
+    "Id": "InverseWeighting50_3",
+    "Mod": null,
+    "PassiveSkill": 2125
+  },
+  {
+    "_rid": 114,
+    "Id": "InverseWeighting50_4",
+    "Mod": null,
+    "PassiveSkill": 19
+  },
+  {
+    "_rid": 115,
+    "Id": "InverseWeighting51",
+    "Mod": null,
+    "PassiveSkill": 2094
+  },
+  {
+    "_rid": 116,
+    "Id": "InverseWeighting52",
+    "Mod": null,
+    "PassiveSkill": 2140
+  },
+  {
+    "_rid": 117,
+    "Id": "InverseWeighting53",
+    "Mod": null,
+    "PassiveSkill": 8
+  },
+  {
+    "_rid": 118,
+    "Id": "InverseWeighting53_2",
+    "Mod": null,
+    "PassiveSkill": 1814
+  },
+  {
+    "_rid": 119,
+    "Id": "InverseWeighting54",
+    "Mod": null,
+    "PassiveSkill": 2273
+  },
+  {
+    "_rid": 120,
+    "Id": "InverseWeighting55",
+    "Mod": null,
+    "PassiveSkill": 254
+  },
+  {
+    "_rid": 121,
+    "Id": "InverseWeighting55_2",
+    "Mod": null,
+    "PassiveSkill": 44
+  },
+  {
+    "_rid": 122,
+    "Id": "InverseWeighting56",
+    "Mod": null,
+    "PassiveSkill": 918
+  },
+  {
+    "_rid": 123,
+    "Id": "InverseWeighting58",
+    "Mod": null,
+    "PassiveSkill": 2097
+  },
+  {
+    "_rid": 124,
+    "Id": "InverseWeighting58_2",
+    "Mod": null,
+    "PassiveSkill": 106
+  },
+  {
+    "_rid": 125,
+    "Id": "InverseWeighting58_3",
+    "Mod": null,
+    "PassiveSkill": 2117
+  },
+  {
+    "_rid": 126,
+    "Id": "InverseWeighting58_4",
+    "Mod": null,
+    "PassiveSkill": 2512
+  },
+  {
+    "_rid": 127,
+    "Id": "InverseWeighting58_5",
+    "Mod": null,
+    "PassiveSkill": 2147
+  },
+  {
+    "_rid": 128,
+    "Id": "InverseWeighting59",
+    "Mod": null,
+    "PassiveSkill": 2390
+  },
+  {
+    "_rid": 129,
+    "Id": "InverseWeighting60",
+    "Mod": null,
+    "PassiveSkill": 1285
+  },
+  {
+    "_rid": 130,
+    "Id": "InverseWeighting63",
+    "Mod": null,
+    "PassiveSkill": 123
+  },
+  {
+    "_rid": 131,
+    "Id": "InverseWeighting63_2",
+    "Mod": null,
+    "PassiveSkill": 2227
+  },
+  {
+    "_rid": 132,
+    "Id": "InverseWeighting63_3",
+    "Mod": null,
+    "PassiveSkill": 957
+  },
+  {
+    "_rid": 133,
+    "Id": "InverseWeighting64",
+    "Mod": null,
+    "PassiveSkill": 1904
+  },
+  {
+    "_rid": 134,
+    "Id": "InverseWeighting66",
+    "Mod": null,
+    "PassiveSkill": 2100
+  },
+  {
+    "_rid": 135,
+    "Id": "InverseWeighting66_2",
+    "Mod": null,
+    "PassiveSkill": 1983
+  },
+  {
+    "_rid": 136,
+    "Id": "InverseWeighting66_3",
+    "Mod": null,
+    "PassiveSkill": 2344
+  },
+  {
+    "_rid": 137,
+    "Id": "InverseWeighting68",
+    "Mod": null,
+    "PassiveSkill": 351
+  },
+  {
+    "_rid": 138,
+    "Id": "InverseWeighting68_2",
+    "Mod": null,
+    "PassiveSkill": 574
+  },
+  {
+    "_rid": 139,
+    "Id": "InverseWeighting71",
+    "Mod": null,
+    "PassiveSkill": 104
+  },
+  {
+    "_rid": 140,
+    "Id": "InverseWeighting75",
+    "Mod": null,
+    "PassiveSkill": 2305
+  },
+  {
+    "_rid": 141,
+    "Id": "InverseWeighting76",
+    "Mod": null,
+    "PassiveSkill": 1940
+  },
+  {
+    "_rid": 142,
+    "Id": "InverseWeighting79",
+    "Mod": null,
+    "PassiveSkill": 2330
+  },
+  {
+    "_rid": 143,
+    "Id": "InverseWeighting81",
+    "Mod": null,
+    "PassiveSkill": 925
+  },
+  {
+    "_rid": 144,
+    "Id": "InverseWeighting82",
+    "Mod": null,
+    "PassiveSkill": 1005
+  },
+  {
+    "_rid": 145,
+    "Id": "InverseWeighting82_2",
+    "Mod": null,
+    "PassiveSkill": 1068
+  },
+  {
+    "_rid": 146,
+    "Id": "InverseWeighting83",
+    "Mod": null,
+    "PassiveSkill": 378
+  },
+  {
+    "_rid": 147,
+    "Id": "InverseWeighting84",
+    "Mod": null,
+    "PassiveSkill": 152
+  },
+  {
+    "_rid": 148,
+    "Id": "InverseWeighting84_2",
+    "Mod": null,
+    "PassiveSkill": 216
+  },
+  {
+    "_rid": 149,
+    "Id": "InverseWeighting84_3",
+    "Mod": null,
+    "PassiveSkill": 1775
+  },
+  {
+    "_rid": 150,
+    "Id": "InverseWeighting85",
+    "Mod": null,
+    "PassiveSkill": 1075
+  },
+  {
+    "_rid": 151,
+    "Id": "InverseWeighting86",
+    "Mod": null,
+    "PassiveSkill": 334
+  },
+  {
+    "_rid": 152,
+    "Id": "InverseWeighting86_2",
+    "Mod": null,
+    "PassiveSkill": 408
+  },
+  {
+    "_rid": 153,
+    "Id": "InverseWeighting87",
+    "Mod": null,
+    "PassiveSkill": 1071
+  },
+  {
+    "_rid": 154,
+    "Id": "InverseWeighting88",
+    "Mod": null,
+    "PassiveSkill": 1667
+  },
+  {
+    "_rid": 155,
+    "Id": "InverseWeighting88_2",
+    "Mod": null,
+    "PassiveSkill": 1955
+  },
+  {
+    "_rid": 156,
+    "Id": "InverseWeighting89",
+    "Mod": null,
+    "PassiveSkill": 346
+  },
+  {
+    "_rid": 157,
+    "Id": "InverseWeighting90",
+    "Mod": null,
+    "PassiveSkill": 1990
+  },
+  {
+    "_rid": 158,
+    "Id": "InverseWeighting90_2",
+    "Mod": null,
+    "PassiveSkill": 1319
+  },
+  {
+    "_rid": 159,
+    "Id": "InverseWeighting91",
+    "Mod": null,
+    "PassiveSkill": 1954
+  },
+  {
+    "_rid": 160,
+    "Id": "InverseWeighting92",
+    "Mod": null,
+    "PassiveSkill": 653
+  },
+  {
+    "_rid": 161,
+    "Id": "InverseWeighting93",
+    "Mod": null,
+    "PassiveSkill": 1157
+  },
+  {
+    "_rid": 162,
+    "Id": "InverseWeighting94",
+    "Mod": null,
+    "PassiveSkill": 927
+  },
+  {
+    "_rid": 163,
+    "Id": "InverseWeighting95",
+    "Mod": null,
+    "PassiveSkill": 645
+  },
+  {
+    "_rid": 164,
+    "Id": "InverseWeighting95_2",
+    "Mod": null,
+    "PassiveSkill": 1984
+  },
+  {
+    "_rid": 165,
+    "Id": "InverseWeighting96",
+    "Mod": null,
+    "PassiveSkill": 872
+  },
+  {
+    "_rid": 166,
+    "Id": "InverseWeighting96_2",
+    "Mod": null,
+    "PassiveSkill": 368
+  },
+  {
+    "_rid": 167,
+    "Id": "InverseWeighting97",
+    "Mod": null,
+    "PassiveSkill": 2336
+  },
+  {
+    "_rid": 168,
+    "Id": "InverseWeighting98",
+    "Mod": null,
+    "PassiveSkill": 343
+  },
+  {
+    "_rid": 169,
+    "Id": "InverseWeighting98_2",
+    "Mod": null,
+    "PassiveSkill": 91
+  },
+  {
+    "_rid": 170,
+    "Id": "InverseWeighting98_3",
+    "Mod": null,
+    "PassiveSkill": 781
+  },
+  {
+    "_rid": 171,
+    "Id": "InverseWeighting100",
+    "Mod": null,
+    "PassiveSkill": 2174
+  },
+  {
+    "_rid": 172,
+    "Id": "InverseWeighting100_2",
+    "Mod": null,
+    "PassiveSkill": 2353
+  },
+  {
+    "_rid": 173,
+    "Id": "InverseWeighting102",
+    "Mod": null,
+    "PassiveSkill": 1170
+  },
+  {
+    "_rid": 174,
+    "Id": "InverseWeighting102_2",
+    "Mod": null,
+    "PassiveSkill": 2071
+  },
+  {
+    "_rid": 175,
+    "Id": "InverseWeighting103",
+    "Mod": null,
+    "PassiveSkill": 319
+  },
+  {
+    "_rid": 176,
+    "Id": "InverseWeighting103_2",
+    "Mod": null,
+    "PassiveSkill": 619
+  },
+  {
+    "_rid": 177,
+    "Id": "InverseWeighting104",
+    "Mod": null,
+    "PassiveSkill": 1069
+  },
+  {
+    "_rid": 178,
+    "Id": "InverseWeighting105",
+    "Mod": null,
+    "PassiveSkill": 2351
+  },
+  {
+    "_rid": 179,
+    "Id": "InverseWeighting106",
+    "Mod": null,
+    "PassiveSkill": 1053
+  },
+  {
+    "_rid": 180,
+    "Id": "InverseWeighting108",
+    "Mod": null,
+    "PassiveSkill": 2170
+  },
+  {
+    "_rid": 181,
+    "Id": "InverseWeighting108_2",
+    "Mod": null,
+    "PassiveSkill": 1169
+  },
+  {
+    "_rid": 182,
+    "Id": "InverseWeighting111",
+    "Mod": null,
+    "PassiveSkill": 1304
+  },
+  {
+    "_rid": 183,
+    "Id": "InverseWeighting114",
+    "Mod": null,
+    "PassiveSkill": 2328
+  },
+  {
+    "_rid": 184,
+    "Id": "InverseWeighting116",
+    "Mod": null,
+    "PassiveSkill": 2039
+  },
+  {
+    "_rid": 185,
+    "Id": "InverseWeighting118",
+    "Mod": null,
+    "PassiveSkill": 2359
+  },
+  {
+    "_rid": 186,
+    "Id": "InverseWeighting120",
+    "Mod": null,
+    "PassiveSkill": 782
+  },
+  {
+    "_rid": 187,
+    "Id": "InverseWeighting121",
+    "Mod": null,
+    "PassiveSkill": 541
+  },
+  {
+    "_rid": 188,
+    "Id": "InverseWeighting122",
+    "Mod": null,
+    "PassiveSkill": 88
+  },
+  {
+    "_rid": 189,
+    "Id": "InverseWeighting122_2",
+    "Mod": null,
+    "PassiveSkill": 1202
+  },
+  {
+    "_rid": 190,
+    "Id": "InverseWeighting123",
+    "Mod": null,
+    "PassiveSkill": 644
+  },
+  {
+    "_rid": 191,
+    "Id": "InverseWeighting124",
+    "Mod": null,
+    "PassiveSkill": 1110
+  },
+  {
+    "_rid": 192,
+    "Id": "InverseWeighting124_2",
+    "Mod": null,
+    "PassiveSkill": 596
+  },
+  {
+    "_rid": 193,
+    "Id": "InverseWeighting124_3",
+    "Mod": null,
+    "PassiveSkill": 1289
+  },
+  {
+    "_rid": 194,
+    "Id": "InverseWeighting125",
+    "Mod": null,
+    "PassiveSkill": 2018
+  },
+  {
+    "_rid": 195,
+    "Id": "InverseWeighting126",
+    "Mod": null,
+    "PassiveSkill": 2022
+  },
+  {
+    "_rid": 196,
+    "Id": "InverseWeighting126_2",
+    "Mod": null,
+    "PassiveSkill": 235
+  },
+  {
+    "_rid": 197,
+    "Id": "InverseWeighting127",
+    "Mod": null,
+    "PassiveSkill": 696
+  },
+  {
+    "_rid": 198,
+    "Id": "InverseWeighting128",
+    "Mod": null,
+    "PassiveSkill": 355
+  },
+  {
+    "_rid": 199,
+    "Id": "InverseWeighting128_2",
+    "Mod": null,
+    "PassiveSkill": 1956
+  },
+  {
+    "_rid": 200,
+    "Id": "InverseWeighting129",
+    "Mod": null,
+    "PassiveSkill": 1098
+  },
+  {
+    "_rid": 201,
+    "Id": "InverseWeighting130",
+    "Mod": null,
+    "PassiveSkill": 232
+  },
+  {
+    "_rid": 202,
+    "Id": "InverseWeighting130_2",
+    "Mod": null,
+    "PassiveSkill": 2161
+  },
+  {
+    "_rid": 203,
+    "Id": "InverseWeighting131",
+    "Mod": null,
+    "PassiveSkill": 403
+  },
+  {
+    "_rid": 204,
+    "Id": "InverseWeighting132",
+    "Mod": null,
+    "PassiveSkill": 719
+  },
+  {
+    "_rid": 205,
+    "Id": "InverseWeighting133",
+    "Mod": null,
+    "PassiveSkill": 1188
+  },
+  {
+    "_rid": 206,
+    "Id": "InverseWeighting134",
+    "Mod": null,
+    "PassiveSkill": 643
+  },
+  {
+    "_rid": 207,
+    "Id": "InverseWeighting135",
+    "Mod": null,
+    "PassiveSkill": 968
+  },
+  {
+    "_rid": 208,
+    "Id": "InverseWeighting135_2",
+    "Mod": null,
+    "PassiveSkill": 655
+  },
+  {
+    "_rid": 209,
+    "Id": "InverseWeighting135_3",
+    "Mod": null,
+    "PassiveSkill": 2240
+  },
+  {
+    "_rid": 210,
+    "Id": "InverseWeighting136",
+    "Mod": null,
+    "PassiveSkill": 1913
+  },
+  {
+    "_rid": 211,
+    "Id": "InverseWeighting136_2",
+    "Mod": null,
+    "PassiveSkill": 2361
+  },
+  {
+    "_rid": 212,
+    "Id": "InverseWeighting137",
+    "Mod": null,
+    "PassiveSkill": 2271
+  },
+  {
+    "_rid": 213,
+    "Id": "InverseWeighting138",
+    "Mod": null,
+    "PassiveSkill": 196
+  },
+  {
+    "_rid": 214,
+    "Id": "InverseWeighting138_2",
+    "Mod": null,
+    "PassiveSkill": 2075
+  },
+  {
+    "_rid": 215,
+    "Id": "InverseWeighting139",
+    "Mod": null,
+    "PassiveSkill": 1204
+  },
+  {
+    "_rid": 216,
+    "Id": "InverseWeighting140",
+    "Mod": null,
+    "PassiveSkill": 1332
+  },
+  {
+    "_rid": 217,
+    "Id": "InverseWeighting141",
+    "Mod": null,
+    "PassiveSkill": 2523
+  },
+  {
+    "_rid": 218,
+    "Id": "InverseWeighting142",
+    "Mod": null,
+    "PassiveSkill": 164
+  },
+  {
+    "_rid": 219,
+    "Id": "InverseWeighting143",
+    "Mod": null,
+    "PassiveSkill": 385
+  },
+  {
+    "_rid": 220,
+    "Id": "InverseWeighting143_2",
+    "Mod": null,
+    "PassiveSkill": 1968
+  },
+  {
+    "_rid": 221,
+    "Id": "InverseWeighting144",
+    "Mod": null,
+    "PassiveSkill": 1097
+  },
+  {
+    "_rid": 222,
+    "Id": "InverseWeighting144_2",
+    "Mod": null,
+    "PassiveSkill": 2296
+  },
+  {
+    "_rid": 223,
+    "Id": "InverseWeighting146",
+    "Mod": null,
+    "PassiveSkill": 420
+  },
+  {
+    "_rid": 224,
+    "Id": "InverseWeighting148",
+    "Mod": null,
+    "PassiveSkill": 175
+  },
+  {
+    "_rid": 225,
+    "Id": "InverseWeighting148_2",
+    "Mod": null,
+    "PassiveSkill": 1355
+  },
+  {
+    "_rid": 226,
+    "Id": "InverseWeighting151",
+    "Mod": null,
+    "PassiveSkill": 1973
+  },
+  {
+    "_rid": 227,
+    "Id": "InverseWeighting153",
+    "Mod": null,
+    "PassiveSkill": 2462
+  },
+  {
+    "_rid": 228,
+    "Id": "InverseWeighting156",
+    "Mod": null,
+    "PassiveSkill": 320
+  },
+  {
+    "_rid": 229,
+    "Id": "InverseWeighting157",
+    "Mod": null,
+    "PassiveSkill": 2349
+  },
+  {
+    "_rid": 230,
+    "Id": "InverseWeighting160",
+    "Mod": null,
+    "PassiveSkill": 2216
+  },
+  {
+    "_rid": 231,
+    "Id": "InverseWeighting161",
+    "Mod": null,
+    "PassiveSkill": 1168
+  },
+  {
+    "_rid": 232,
+    "Id": "InverseWeighting161_2",
+    "Mod": null,
+    "PassiveSkill": 2374
+  },
+  {
+    "_rid": 233,
+    "Id": "InverseWeighting162",
+    "Mod": null,
+    "PassiveSkill": 1960
+  },
+  {
+    "_rid": 234,
+    "Id": "InverseWeighting162_2",
+    "Mod": null,
+    "PassiveSkill": 2204
+  },
+  {
+    "_rid": 235,
+    "Id": "InverseWeighting164",
+    "Mod": null,
+    "PassiveSkill": 1076
+  },
+  {
+    "_rid": 236,
+    "Id": "InverseWeighting164_2",
+    "Mod": null,
+    "PassiveSkill": 2068
+  },
+  {
+    "_rid": 237,
+    "Id": "InverseWeighting164_3",
+    "Mod": null,
+    "PassiveSkill": 1089
+  },
+  {
+    "_rid": 238,
+    "Id": "InverseWeighting166",
+    "Mod": null,
+    "PassiveSkill": 1196
+  },
+  {
+    "_rid": 239,
+    "Id": "InverseWeighting166_2",
+    "Mod": null,
+    "PassiveSkill": 1902
+  },
+  {
+    "_rid": 240,
+    "Id": "InverseWeighting169",
+    "Mod": null,
+    "PassiveSkill": 2091
+  },
+  {
+    "_rid": 241,
+    "Id": "InverseWeighting169_2",
+    "Mod": null,
+    "PassiveSkill": 1114
+  },
+  {
+    "_rid": 242,
+    "Id": "InverseWeighting174",
+    "Mod": null,
+    "PassiveSkill": 2256
+  },
+  {
+    "_rid": 243,
+    "Id": "InverseWeighting174_2",
+    "Mod": null,
+    "PassiveSkill": 698
+  },
+  {
+    "_rid": 244,
+    "Id": "InverseWeighting174_3",
+    "Mod": null,
+    "PassiveSkill": 2320
+  },
+  {
+    "_rid": 245,
+    "Id": "InverseWeighting174_4",
+    "Mod": null,
+    "PassiveSkill": 2050
+  },
+  {
+    "_rid": 246,
+    "Id": "InverseWeighting182",
+    "Mod": null,
+    "PassiveSkill": 95
+  },
+  {
+    "_rid": 247,
+    "Id": "InverseWeighting182_2",
+    "Mod": null,
+    "PassiveSkill": 2083
+  },
+  {
+    "_rid": 248,
+    "Id": "InverseWeighting182_3",
+    "Mod": null,
+    "PassiveSkill": 2157
+  },
+  {
+    "_rid": 249,
+    "Id": "InverseWeighting183",
+    "Mod": null,
+    "PassiveSkill": 244
+  },
+  {
+    "_rid": 250,
+    "Id": "InverseWeighting184",
+    "Mod": null,
+    "PassiveSkill": 231
+  },
+  {
+    "_rid": 251,
+    "Id": "InverseWeighting185",
+    "Mod": null,
+    "PassiveSkill": 1843
+  },
+  {
+    "_rid": 252,
+    "Id": "InverseWeighting186",
+    "Mod": null,
+    "PassiveSkill": 1823
+  },
+  {
+    "_rid": 253,
+    "Id": "InverseWeighting187",
+    "Mod": null,
+    "PassiveSkill": 277
+  },
+  {
+    "_rid": 254,
+    "Id": "InverseWeighting188",
+    "Mod": null,
+    "PassiveSkill": 256
+  },
+  {
+    "_rid": 255,
+    "Id": "InverseWeighting188_2",
+    "Mod": null,
+    "PassiveSkill": 1920
+  },
+  {
+    "_rid": 256,
+    "Id": "InverseWeighting190",
+    "Mod": null,
+    "PassiveSkill": 2148
+  },
+  {
+    "_rid": 257,
+    "Id": "InverseWeighting190_2",
+    "Mod": null,
+    "PassiveSkill": 1126
+  },
+  {
+    "_rid": 258,
+    "Id": "InverseWeighting191",
+    "Mod": null,
+    "PassiveSkill": 1830
+  },
+  {
+    "_rid": 259,
+    "Id": "InverseWeighting192",
+    "Mod": null,
+    "PassiveSkill": 914
+  },
+  {
+    "_rid": 260,
+    "Id": "InverseWeighting193",
+    "Mod": null,
+    "PassiveSkill": 188
+  },
+  {
+    "_rid": 261,
+    "Id": "InverseWeighting194",
+    "Mod": null,
+    "PassiveSkill": 1772
+  },
+  {
+    "_rid": 262,
+    "Id": "InverseWeighting195",
+    "Mod": null,
+    "PassiveSkill": 1328
+  },
+  {
+    "_rid": 263,
+    "Id": "InverseWeighting195_2",
+    "Mod": null,
+    "PassiveSkill": 958
+  },
+  {
+    "_rid": 264,
+    "Id": "InverseWeighting195_3",
+    "Mod": null,
+    "PassiveSkill": 2386
+  },
+  {
+    "_rid": 265,
+    "Id": "InverseWeighting196",
+    "Mod": null,
+    "PassiveSkill": 1208
+  },
+  {
+    "_rid": 266,
+    "Id": "InverseWeighting197",
+    "Mod": null,
+    "PassiveSkill": 2366
+  },
+  {
+    "_rid": 267,
+    "Id": "InverseWeighting198",
+    "Mod": null,
+    "PassiveSkill": 2253
+  },
+  {
+    "_rid": 268,
+    "Id": "InverseWeighting198_2",
+    "Mod": null,
+    "PassiveSkill": 1877
+  },
+  {
+    "_rid": 269,
+    "Id": "InverseWeighting199",
+    "Mod": null,
+    "PassiveSkill": 2399
+  },
+  {
+    "_rid": 270,
+    "Id": "InverseWeighting200",
+    "Mod": null,
+    "PassiveSkill": 1049
+  },
+  {
+    "_rid": 271,
+    "Id": "InverseWeighting200_2",
+    "Mod": null,
+    "PassiveSkill": 1948
+  },
+  {
+    "_rid": 272,
+    "Id": "InverseWeighting200_3",
+    "Mod": null,
+    "PassiveSkill": 959
+  },
+  {
+    "_rid": 273,
+    "Id": "InverseWeighting201",
+    "Mod": null,
+    "PassiveSkill": 27
+  },
+  {
+    "_rid": 274,
+    "Id": "InverseWeighting202",
+    "Mod": null,
+    "PassiveSkill": 236
+  },
+  {
+    "_rid": 275,
+    "Id": "InverseWeighting202_2",
+    "Mod": null,
+    "PassiveSkill": 2459
+  },
+  {
+    "_rid": 276,
+    "Id": "InverseWeighting203",
+    "Mod": null,
+    "PassiveSkill": 1783
+  },
+  {
+    "_rid": 277,
+    "Id": "InverseWeighting203_2",
+    "Mod": null,
+    "PassiveSkill": 2014
+  },
+  {
+    "_rid": 278,
+    "Id": "InverseWeighting204",
+    "Mod": null,
+    "PassiveSkill": 373
+  },
+  {
+    "_rid": 279,
+    "Id": "InverseWeighting204_2",
+    "Mod": null,
+    "PassiveSkill": 2111
+  },
+  {
+    "_rid": 280,
+    "Id": "InverseWeighting206",
+    "Mod": null,
+    "PassiveSkill": 1947
+  },
+  {
+    "_rid": 281,
+    "Id": "InverseWeighting206_2",
+    "Mod": null,
+    "PassiveSkill": 2121
+  },
+  {
+    "_rid": 282,
+    "Id": "InverseWeighting208",
+    "Mod": null,
+    "PassiveSkill": 285
+  },
+  {
+    "_rid": 283,
+    "Id": "InverseWeighting208_2",
+    "Mod": null,
+    "PassiveSkill": 1223
+  },
+  {
+    "_rid": 284,
+    "Id": "InverseWeighting209",
+    "Mod": null,
+    "PassiveSkill": 913
+  },
+  {
+    "_rid": 285,
+    "Id": "InverseWeighting211",
+    "Mod": null,
+    "PassiveSkill": 679
+  },
+  {
+    "_rid": 286,
+    "Id": "InverseWeighting211_2",
+    "Mod": null,
+    "PassiveSkill": 2383
+  },
+  {
+    "_rid": 287,
+    "Id": "InverseWeighting213",
+    "Mod": null,
+    "PassiveSkill": 2408
+  },
+  {
+    "_rid": 288,
+    "Id": "InverseWeighting214",
+    "Mod": null,
+    "PassiveSkill": 864
+  },
+  {
+    "_rid": 289,
+    "Id": "InverseWeighting215",
+    "Mod": null,
+    "PassiveSkill": 2407
+  },
+  {
+    "_rid": 290,
+    "Id": "InverseWeighting216",
+    "Mod": null,
+    "PassiveSkill": 1835
+  },
+  {
+    "_rid": 291,
+    "Id": "InverseWeighting221",
+    "Mod": null,
+    "PassiveSkill": 128
+  },
+  {
+    "_rid": 292,
+    "Id": "InverseWeighting222",
+    "Mod": null,
+    "PassiveSkill": 376
+  },
+  {
+    "_rid": 293,
+    "Id": "InverseWeighting222_2",
+    "Mod": null,
+    "PassiveSkill": 2144
+  },
+  {
+    "_rid": 294,
+    "Id": "InverseWeighting224",
+    "Mod": null,
+    "PassiveSkill": 1323
+  },
+  {
+    "_rid": 295,
+    "Id": "InverseWeighting224_2",
+    "Mod": null,
+    "PassiveSkill": 2060
+  },
+  {
+    "_rid": 296,
+    "Id": "InverseWeighting226",
+    "Mod": null,
+    "PassiveSkill": 697
+  },
+  {
+    "_rid": 297,
+    "Id": "InverseWeighting229",
+    "Mod": null,
+    "PassiveSkill": 67
+  },
+  {
+    "_rid": 298,
+    "Id": "InverseWeighting232",
+    "Mod": null,
+    "PassiveSkill": 2565
+  },
+  {
+    "_rid": 299,
+    "Id": "InverseWeighting234",
+    "Mod": null,
+    "PassiveSkill": 1929
+  },
+  {
+    "_rid": 300,
+    "Id": "InverseWeighting240",
+    "Mod": null,
+    "PassiveSkill": 1027
+  },
+  {
+    "_rid": 301,
+    "Id": "InverseWeighting240_2",
+    "Mod": null,
+    "PassiveSkill": 2208
+  },
+  {
+    "_rid": 302,
+    "Id": "InverseWeighting241",
+    "Mod": null,
+    "PassiveSkill": 1060
+  },
+  {
+    "_rid": 303,
+    "Id": "InverseWeighting242",
+    "Mod": null,
+    "PassiveSkill": 1020
+  },
+  {
+    "_rid": 304,
+    "Id": "InverseWeighting242_2",
+    "Mod": null,
+    "PassiveSkill": 2231
+  },
+  {
+    "_rid": 305,
+    "Id": "InverseWeighting244",
+    "Mod": null,
+    "PassiveSkill": 1052
+  },
+  {
+    "_rid": 306,
+    "Id": "InverseWeighting245",
+    "Mod": null,
+    "PassiveSkill": 0
+  },
+  {
+    "_rid": 307,
+    "Id": "InverseWeighting246",
+    "Mod": null,
+    "PassiveSkill": 1767
+  },
+  {
+    "_rid": 308,
+    "Id": "InverseWeighting246_2",
+    "Mod": null,
+    "PassiveSkill": 1959
+  },
+  {
+    "_rid": 309,
+    "Id": "InverseWeighting247",
+    "Mod": null,
+    "PassiveSkill": 1903
+  },
+  {
+    "_rid": 310,
+    "Id": "InverseWeighting248",
+    "Mod": null,
+    "PassiveSkill": 2010
+  },
+  {
+    "_rid": 311,
+    "Id": "InverseWeighting249",
+    "Mod": null,
+    "PassiveSkill": 971
+  },
+  {
+    "_rid": 312,
+    "Id": "InverseWeighting249_2",
+    "Mod": null,
+    "PassiveSkill": 2190
+  },
+  {
+    "_rid": 313,
+    "Id": "InverseWeighting250",
+    "Mod": null,
+    "PassiveSkill": 2224
+  },
+  {
+    "_rid": 314,
+    "Id": "InverseWeighting251",
+    "Mod": null,
+    "PassiveSkill": 360
+  },
+  {
+    "_rid": 315,
+    "Id": "InverseWeighting251_2",
+    "Mod": null,
+    "PassiveSkill": 126
+  },
+  {
+    "_rid": 316,
+    "Id": "InverseWeighting252",
+    "Mod": null,
+    "PassiveSkill": 2323
+  },
+  {
+    "_rid": 317,
+    "Id": "InverseWeighting253",
+    "Mod": null,
+    "PassiveSkill": 1763
+  },
+  {
+    "_rid": 318,
+    "Id": "InverseWeighting253_2",
+    "Mod": null,
+    "PassiveSkill": 2079
+  },
+  {
+    "_rid": 319,
+    "Id": "InverseWeighting254",
+    "Mod": null,
+    "PassiveSkill": 118
+  },
+  {
+    "_rid": 320,
+    "Id": "InverseWeighting254_2",
+    "Mod": null,
+    "PassiveSkill": 907
+  },
+  {
+    "_rid": 321,
+    "Id": "InverseWeighting255",
+    "Mod": null,
+    "PassiveSkill": 1838
+  },
+  {
+    "_rid": 322,
+    "Id": "InverseWeighting255_2",
+    "Mod": null,
+    "PassiveSkill": 2458
+  },
+  {
+    "_rid": 323,
+    "Id": "InverseWeighting256",
+    "Mod": null,
+    "PassiveSkill": 1340
+  },
+  {
+    "_rid": 324,
+    "Id": "InverseWeighting256_2",
+    "Mod": null,
+    "PassiveSkill": 2444
+  },
+  {
+    "_rid": 325,
+    "Id": "InverseWeighting258",
+    "Mod": null,
+    "PassiveSkill": 2463
+  },
+  {
+    "_rid": 326,
+    "Id": "InverseWeighting258_2",
+    "Mod": null,
+    "PassiveSkill": 939
+  },
+  {
+    "_rid": 327,
+    "Id": "InverseWeighting258_3",
+    "Mod": null,
+    "PassiveSkill": 620
+  },
+  {
+    "_rid": 328,
+    "Id": "InverseWeighting259",
+    "Mod": null,
+    "PassiveSkill": 149
+  },
+  {
+    "_rid": 329,
+    "Id": "InverseWeighting260",
+    "Mod": null,
+    "PassiveSkill": 753
+  },
+  {
+    "_rid": 330,
+    "Id": "InverseWeighting260_2",
+    "Mod": null,
+    "PassiveSkill": 726
+  },
+  {
+    "_rid": 331,
+    "Id": "InverseWeighting261",
+    "Mod": null,
+    "PassiveSkill": 773
+  },
+  {
+    "_rid": 332,
+    "Id": "InverseWeighting261_2",
+    "Mod": null,
+    "PassiveSkill": 652
+  },
+  {
+    "_rid": 333,
+    "Id": "InverseWeighting261_3",
+    "Mod": null,
+    "PassiveSkill": 1070
+  },
+  {
+    "_rid": 334,
+    "Id": "InverseWeighting262",
+    "Mod": null,
+    "PassiveSkill": 388
+  },
+  {
+    "_rid": 335,
+    "Id": "InverseWeighting262_2",
+    "Mod": null,
+    "PassiveSkill": 1152
+  },
+  {
+    "_rid": 336,
+    "Id": "InverseWeighting263",
+    "Mod": null,
+    "PassiveSkill": 1116
+  },
+  {
+    "_rid": 337,
+    "Id": "InverseWeighting263_2",
+    "Mod": null,
+    "PassiveSkill": 2404
+  },
+  {
+    "_rid": 338,
+    "Id": "InverseWeighting264",
+    "Mod": null,
+    "PassiveSkill": 282
+  },
+  {
+    "_rid": 339,
+    "Id": "InverseWeighting266",
+    "Mod": null,
+    "PassiveSkill": 2501
+  },
+  {
+    "_rid": 340,
+    "Id": "InverseWeighting266_2",
+    "Mod": null,
+    "PassiveSkill": 1082
+  },
+  {
+    "_rid": 341,
+    "Id": "InverseWeighting266_3",
+    "Mod": null,
+    "PassiveSkill": 684
+  },
+  {
+    "_rid": 342,
+    "Id": "InverseWeighting267",
+    "Mod": null,
+    "PassiveSkill": 735
+  },
+  {
+    "_rid": 343,
+    "Id": "InverseWeighting269",
+    "Mod": null,
+    "PassiveSkill": 2360
+  },
+  {
+    "_rid": 344,
+    "Id": "InverseWeighting269_2",
+    "Mod": null,
+    "PassiveSkill": 737
+  },
+  {
+    "_rid": 345,
+    "Id": "InverseWeighting271",
+    "Mod": null,
+    "PassiveSkill": 414
+  },
+  {
+    "_rid": 346,
+    "Id": "InverseWeighting271_2",
+    "Mod": null,
+    "PassiveSkill": 1214
+  },
+  {
+    "_rid": 347,
+    "Id": "InverseWeighting271_3",
+    "Mod": null,
+    "PassiveSkill": 1908
+  },
+  {
+    "_rid": 348,
+    "Id": "InverseWeighting272",
+    "Mod": null,
+    "PassiveSkill": 1362
+  },
+  {
+    "_rid": 349,
+    "Id": "InverseWeighting274",
+    "Mod": null,
+    "PassiveSkill": 1046
+  },
+  {
+    "_rid": 350,
+    "Id": "InverseWeighting274_2",
+    "Mod": null,
+    "PassiveSkill": 195
+  },
+  {
+    "_rid": 351,
+    "Id": "InverseWeighting276",
+    "Mod": null,
+    "PassiveSkill": 2571
+  },
+  {
+    "_rid": 352,
+    "Id": "InverseWeighting279",
+    "Mod": null,
+    "PassiveSkill": 1117
+  },
+  {
+    "_rid": 353,
+    "Id": "InverseWeighting280",
+    "Mod": null,
+    "PassiveSkill": 59
+  },
+  {
+    "_rid": 354,
+    "Id": "InverseWeighting280_2",
+    "Mod": null,
+    "PassiveSkill": 2519
+  },
+  {
+    "_rid": 355,
+    "Id": "InverseWeighting282",
+    "Mod": null,
+    "PassiveSkill": 1297
+  },
+  {
+    "_rid": 356,
+    "Id": "InverseWeighting284",
+    "Mod": null,
+    "PassiveSkill": 1048
+  },
+  {
+    "_rid": 357,
+    "Id": "InverseWeighting285",
+    "Mod": null,
+    "PassiveSkill": 1003
+  },
+  {
+    "_rid": 358,
+    "Id": "InverseWeighting287",
+    "Mod": null,
+    "PassiveSkill": 73
+  },
+  {
+    "_rid": 359,
+    "Id": "InverseWeighting287_2",
+    "Mod": null,
+    "PassiveSkill": 50
+  },
+  {
+    "_rid": 360,
+    "Id": "InverseWeighting289",
+    "Mod": null,
+    "PassiveSkill": 302
+  },
+  {
+    "_rid": 361,
+    "Id": "InverseWeighting292",
+    "Mod": null,
+    "PassiveSkill": 1112
+  },
+  {
+    "_rid": 362,
+    "Id": "InverseWeighting293",
+    "Mod": null,
+    "PassiveSkill": 2572
+  },
+  {
+    "_rid": 363,
+    "Id": "InverseWeighting297",
+    "Mod": null,
+    "PassiveSkill": 1043
+  },
+  {
+    "_rid": 364,
+    "Id": "InverseWeighting300",
+    "Mod": null,
+    "PassiveSkill": 147
+  },
+  {
+    "_rid": 365,
+    "Id": "InverseWeighting301",
+    "Mod": null,
+    "PassiveSkill": 1825
+  },
+  {
+    "_rid": 366,
+    "Id": "InverseWeighting302",
+    "Mod": null,
+    "PassiveSkill": 467
+  },
+  {
+    "_rid": 367,
+    "Id": "InverseWeighting304",
+    "Mod": null,
+    "PassiveSkill": 1352
+  },
+  {
+    "_rid": 368,
+    "Id": "InverseWeighting305",
+    "Mod": null,
+    "PassiveSkill": 173
+  },
+  {
+    "_rid": 369,
+    "Id": "InverseWeighting306",
+    "Mod": null,
+    "PassiveSkill": 2392
+  },
+  {
+    "_rid": 370,
+    "Id": "InverseWeighting309",
+    "Mod": null,
+    "PassiveSkill": 288
+  },
+  {
+    "_rid": 371,
+    "Id": "InverseWeighting310",
+    "Mod": null,
+    "PassiveSkill": 2412
+  },
+  {
+    "_rid": 372,
+    "Id": "InverseWeighting314",
+    "Mod": null,
+    "PassiveSkill": 337
+  },
+  {
+    "_rid": 373,
+    "Id": "InverseWeighting320",
+    "Mod": null,
+    "PassiveSkill": 1336
+  },
+  {
+    "_rid": 374,
+    "Id": "InverseWeighting322",
+    "Mod": null,
+    "PassiveSkill": 766
+  },
+  {
+    "_rid": 375,
+    "Id": "InverseWeighting323",
+    "Mod": null,
+    "PassiveSkill": 1998
+  },
+  {
+    "_rid": 376,
+    "Id": "InverseWeighting324",
+    "Mod": null,
+    "PassiveSkill": 58
+  },
+  {
+    "_rid": 377,
+    "Id": "InverseWeighting325",
+    "Mod": null,
+    "PassiveSkill": 743
+  },
+  {
+    "_rid": 378,
+    "Id": "InverseWeighting327",
+    "Mod": null,
+    "PassiveSkill": 2300
+  },
+  {
+    "_rid": 379,
+    "Id": "InverseWeighting329",
+    "Mod": null,
+    "PassiveSkill": 2464
+  },
+  {
+    "_rid": 380,
+    "Id": "InverseWeighting332",
+    "Mod": null,
+    "PassiveSkill": 667
+  },
+  {
+    "_rid": 381,
+    "Id": "InverseWeighting332_2",
+    "Mod": null,
+    "PassiveSkill": 2051
+  },
+  {
+    "_rid": 382,
+    "Id": "InverseWeighting337",
+    "Mod": null,
+    "PassiveSkill": 676
+  },
+  {
+    "_rid": 383,
+    "Id": "InverseWeighting340",
+    "Mod": null,
+    "PassiveSkill": 2035
+  },
+  {
+    "_rid": 384,
+    "Id": "InverseWeighting340_2",
+    "Mod": null,
+    "PassiveSkill": 57
+  },
+  {
+    "_rid": 385,
+    "Id": "InverseWeighting345",
+    "Mod": null,
+    "PassiveSkill": 2200
+  },
+  {
+    "_rid": 386,
+    "Id": "InverseWeighting360",
+    "Mod": null,
+    "PassiveSkill": 1213
+  },
+  {
+    "_rid": 387,
+    "Id": "InverseWeighting361",
+    "Mod": null,
+    "PassiveSkill": 1995
+  },
+  {
+    "_rid": 388,
+    "Id": "InverseWeighting362",
+    "Mod": null,
+    "PassiveSkill": 2156
+  },
+  {
+    "_rid": 389,
+    "Id": "InverseWeighting363",
+    "Mod": null,
+    "PassiveSkill": 284
+  },
+  {
+    "_rid": 390,
+    "Id": "InverseWeighting364",
+    "Mod": null,
+    "PassiveSkill": 298
+  },
+  {
+    "_rid": 391,
+    "Id": "InverseWeighting364_2",
+    "Mod": null,
+    "PassiveSkill": 1079
+  },
+  {
+    "_rid": 392,
+    "Id": "InverseWeighting365",
+    "Mod": null,
+    "PassiveSkill": 478
+  },
+  {
+    "_rid": 393,
+    "Id": "InverseWeighting366",
+    "Mod": null,
+    "PassiveSkill": 411
+  },
+  {
+    "_rid": 394,
+    "Id": "InverseWeighting367",
+    "Mod": null,
+    "PassiveSkill": 1849
+  },
+  {
+    "_rid": 395,
+    "Id": "InverseWeighting368",
+    "Mod": null,
+    "PassiveSkill": 2264
+  },
+  {
+    "_rid": 396,
+    "Id": "InverseWeighting369",
+    "Mod": null,
+    "PassiveSkill": 1047
+  },
+  {
+    "_rid": 397,
+    "Id": "InverseWeighting369_2",
+    "Mod": null,
+    "PassiveSkill": 1118
+  },
+  {
+    "_rid": 398,
+    "Id": "InverseWeighting372",
+    "Mod": null,
+    "PassiveSkill": 65
+  },
+  {
+    "_rid": 399,
+    "Id": "InverseWeighting371",
+    "Mod": null,
+    "PassiveSkill": 2465
+  },
+  {
+    "_rid": 400,
+    "Id": "InverseWeighting374",
+    "Mod": null,
+    "PassiveSkill": 283
+  },
+  {
+    "_rid": 401,
+    "Id": "InverseWeighting377",
+    "Mod": null,
+    "PassiveSkill": 1086
+  },
+  {
+    "_rid": 402,
+    "Id": "InverseWeighting380",
+    "Mod": null,
+    "PassiveSkill": 1040
+  },
+  {
+    "_rid": 403,
+    "Id": "InverseWeighting382",
+    "Mod": null,
+    "PassiveSkill": 734
+  },
+  {
+    "_rid": 404,
+    "Id": "InverseWeighting385",
+    "Mod": null,
+    "PassiveSkill": 2043
+  },
+  {
+    "_rid": 405,
+    "Id": "InverseWeighting400",
+    "Mod": null,
+    "PassiveSkill": 412
+  },
+  {
+    "_rid": 406,
+    "Id": "InverseWeighting403",
+    "Mod": null,
+    "PassiveSkill": 182
+  },
+  {
+    "_rid": 407,
+    "Id": "InverseWeighting403_2",
+    "Mod": null,
+    "PassiveSkill": 2055
+  },
+  {
+    "_rid": 408,
+    "Id": "InverseWeighting420",
+    "Mod": null,
+    "PassiveSkill": 995
+  },
+  {
+    "_rid": 409,
+    "Id": "InverseWeighting424",
+    "Mod": null,
+    "PassiveSkill": 1307
+  },
+  {
+    "_rid": 410,
+    "Id": "InverseWeighting425",
+    "Mod": null,
+    "PassiveSkill": 1914
+  },
+  {
+    "_rid": 411,
+    "Id": "InverseWeighting427",
+    "Mod": null,
+    "PassiveSkill": 1939
+  },
+  {
+    "_rid": 412,
+    "Id": "InverseWeighting429",
+    "Mod": null,
+    "PassiveSkill": 2220
+  },
+  {
+    "_rid": 413,
+    "Id": "InverseWeighting429_2",
+    "Mod": null,
+    "PassiveSkill": 2498
+  },
+  {
+    "_rid": 414,
+    "Id": "InverseWeighting432",
+    "Mod": null,
+    "PassiveSkill": 1041
+  },
+  {
+    "_rid": 415,
+    "Id": "InverseWeighting437",
+    "Mod": null,
+    "PassiveSkill": 2237
+  },
+  {
+    "_rid": 416,
+    "Id": "InverseWeighting440",
+    "Mod": null,
+    "PassiveSkill": 759
+  },
+  {
+    "_rid": 417,
+    "Id": "InverseWeighting443",
+    "Mod": null,
+    "PassiveSkill": 790
+  },
+  {
+    "_rid": 418,
+    "Id": "InverseWeighting445",
+    "Mod": null,
+    "PassiveSkill": 472
+  },
+  {
+    "_rid": 419,
+    "Id": "InverseWeighting463",
+    "Mod": null,
+    "PassiveSkill": 856
+  },
+  {
+    "_rid": 420,
+    "Id": "InverseWeighting480",
+    "Mod": null,
+    "PassiveSkill": 1025
+  },
+  {
+    "_rid": 421,
+    "Id": "InverseWeighting483",
+    "Mod": null,
+    "PassiveSkill": 1185
+  },
+  {
+    "_rid": 422,
+    "Id": "InverseWeighting487",
+    "Mod": null,
+    "PassiveSkill": 811
+  },
+  {
+    "_rid": 423,
+    "Id": "InverseWeighting488",
+    "Mod": null,
+    "PassiveSkill": 2047
+  },
+  {
+    "_rid": 424,
+    "Id": "InverseWeighting490",
+    "Mod": null,
+    "PassiveSkill": 2272
+  },
+  {
+    "_rid": 425,
+    "Id": "InverseWeighting490_2",
+    "Mod": null,
+    "PassiveSkill": 2341
+  },
+  {
+    "_rid": 426,
+    "Id": "InverseWeighting492",
+    "Mod": null,
+    "PassiveSkill": 770
+  },
+  {
+    "_rid": 427,
+    "Id": "InverseWeighting495",
+    "Mod": null,
+    "PassiveSkill": 673
+  },
+  {
+    "_rid": 428,
+    "Id": "InverseWeighting500",
+    "Mod": null,
+    "PassiveSkill": 2492
+  },
+  {
+    "_rid": 429,
+    "Id": "InverseWeighting503",
+    "Mod": null,
+    "PassiveSkill": 692
+  },
+  {
+    "_rid": 430,
+    "Id": "InverseWeighting508",
+    "Mod": null,
+    "PassiveSkill": 1361
+  },
+  {
+    "_rid": 431,
+    "Id": "InverseWeighting526",
+    "Mod": null,
+    "PassiveSkill": 2495
+  },
+  {
+    "_rid": 432,
+    "Id": "InverseWeighting540",
+    "Mod": null,
+    "PassiveSkill": 941
+  },
+  {
+    "_rid": 433,
+    "Id": "InverseWeighting543",
+    "Mod": null,
+    "PassiveSkill": 2887
+  },
+  {
+    "_rid": 434,
+    "Id": "InverseWeighting566",
+    "Mod": null,
+    "PassiveSkill": 2537
+  },
+  {
+    "_rid": 435,
+    "Id": "InverseWeighting603",
+    "Mod": null,
+    "PassiveSkill": 1906
+  },
+  {
+    "_rid": 436,
+    "Id": "InverseWeighting606",
+    "Mod": null,
+    "PassiveSkill": 940
+  },
+  {
+    "_rid": 437,
+    "Id": "InverseWeighting666",
+    "Mod": null,
+    "PassiveSkill": 2106
+  },
+  {
+    "_rid": 438,
+    "Id": "InverseWeighting729",
+    "Mod": null,
+    "PassiveSkill": 752
+  },
+  {
+    "_rid": 439,
+    "Id": "RingInverseWeighting2",
+    "Mod": 21280,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 440,
+    "Id": "RingInverseWeighting3",
+    "Mod": 21285,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 441,
+    "Id": "RingInverseWeighting4",
+    "Mod": 21289,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 442,
+    "Id": "RingInverseWeighting5",
+    "Mod": 21345,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 443,
+    "Id": "RingInverseWeighting6",
+    "Mod": 21350,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 444,
+    "Id": "RingInverseWeighting7",
+    "Mod": 21354,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 445,
+    "Id": "RingInverseWeighting8",
+    "Mod": 21332,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 446,
+    "Id": "RingInverseWeighting8_2",
+    "Mod": 21337,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 447,
+    "Id": "RingInverseWeighting10",
+    "Mod": 21341,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 448,
+    "Id": "RingInverseWeighting10_2",
+    "Mod": 21293,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 449,
+    "Id": "RingInverseWeighting11",
+    "Mod": 21298,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 450,
+    "Id": "RingInverseWeighting12",
+    "Mod": 21302,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 451,
+    "Id": "RingInverseWeighting13",
+    "Mod": 21319,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 452,
+    "Id": "RingInverseWeighting15",
+    "Mod": 21324,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 453,
+    "Id": "RingInverseWeighting15_2",
+    "Mod": 21328,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 454,
+    "Id": "RingInverseWeighting16",
+    "Mod": 21306,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 455,
+    "Id": "RingInverseWeighting18",
+    "Mod": 21311,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 456,
+    "Id": "RingInverseWeighting18_2",
+    "Mod": 21315,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 457,
+    "Id": "RingInverseWeighting20",
+    "Mod": 21281,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 458,
+    "Id": "RingInverseWeighting23",
+    "Mod": 21286,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 459,
+    "Id": "RingInverseWeighting23_2",
+    "Mod": 21290,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 460,
+    "Id": "RingInverseWeighting24",
+    "Mod": 21346,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 461,
+    "Id": "RingInverseWeighting26",
+    "Mod": 21351,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 462,
+    "Id": "RingInverseWeighting28",
+    "Mod": 21355,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 463,
+    "Id": "RingInverseWeighting28_2",
+    "Mod": 21333,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 464,
+    "Id": "RingInverseWeighting31",
+    "Mod": 21338,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 465,
+    "Id": "RingInverseWeighting36",
+    "Mod": 21342,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 466,
+    "Id": "RingInverseWeighting41",
+    "Mod": 21294,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 467,
+    "Id": "RingInverseWeighting42",
+    "Mod": 21299,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 468,
+    "Id": "RingInverseWeighting44",
+    "Mod": 21303,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 469,
+    "Id": "RingInverseWeighting44_2",
+    "Mod": 21282,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 470,
+    "Id": "RingInverseWeighting46",
+    "Mod": 21287,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 471,
+    "Id": "RingInverseWeighting49",
+    "Mod": 21291,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 472,
+    "Id": "RingInverseWeighting54",
+    "Mod": 21347,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 473,
+    "Id": "RingInverseWeighting62",
+    "Mod": 21352,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 474,
+    "Id": "RingInverseWeighting80",
+    "Mod": 21356,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 475,
+    "Id": "RingInverseWeighting81",
+    "Mod": 21320,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 476,
+    "Id": "RingInverseWeighting82",
+    "Mod": 21325,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 477,
+    "Id": "RingInverseWeighting84",
+    "Mod": 21329,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 478,
+    "Id": "RingInverseWeighting86",
+    "Mod": 21307,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 479,
+    "Id": "RingInverseWeighting89",
+    "Mod": 21312,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 480,
+    "Id": "RingInverseWeighting94",
+    "Mod": 21316,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 481,
+    "Id": "RingInverseWeighting102",
+    "Mod": 21283,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 482,
+    "Id": "RingInverseWeighting120",
+    "Mod": 21288,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 483,
+    "Id": "RingInverseWeighting121",
+    "Mod": 21292,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 484,
+    "Id": "RingInverseWeighting122",
+    "Mod": 21348,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 485,
+    "Id": "RingInverseWeighting124",
+    "Mod": 21353,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 486,
+    "Id": "RingInverseWeighting126",
+    "Mod": 21357,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 487,
+    "Id": "RingInverseWeighting129",
+    "Mod": 21334,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 488,
+    "Id": "RingInverseWeighting134",
+    "Mod": 21339,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 489,
+    "Id": "RingInverseWeighting142",
+    "Mod": 21343,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 490,
+    "Id": "RingInverseWeighting160",
+    "Mod": 21295,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 491,
+    "Id": "RingInverseWeighting160_2",
+    "Mod": 21300,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 492,
+    "Id": "RingInverseWeighting181",
+    "Mod": 21304,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 493,
+    "Id": "RingInverseWeighting182",
+    "Mod": 21321,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 494,
+    "Id": "RingInverseWeighting184",
+    "Mod": 21326,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 495,
+    "Id": "RingInverseWeighting186",
+    "Mod": 21330,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 496,
+    "Id": "RingInverseWeighting189",
+    "Mod": 21335,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 497,
+    "Id": "RingInverseWeighting194",
+    "Mod": 21371,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 498,
+    "Id": "RingInverseWeighting200",
+    "Mod": 21344,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 499,
+    "Id": "RingInverseWeighting202",
+    "Mod": 21308,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 500,
+    "Id": "RingInverseWeighting220",
+    "Mod": 21313,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 501,
+    "Id": "RingInverseWeighting240",
+    "Mod": 21317,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 502,
+    "Id": "RingInverseWeighting244",
+    "Mod": 21296,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 503,
+    "Id": "RingInverseWeighting245",
+    "Mod": 21301,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 504,
+    "Id": "RingInverseWeighting247",
+    "Mod": 21305,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 505,
+    "Id": "RingInverseWeighting249",
+    "Mod": 21322,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 506,
+    "Id": "RingInverseWeighting252",
+    "Mod": 21327,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 507,
+    "Id": "RingInverseWeighting257",
+    "Mod": 21331,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 508,
+    "Id": "RingInverseWeighting260",
+    "Mod": 21309,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 509,
+    "Id": "RingInverseWeighting265",
+    "Mod": 21314,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 510,
+    "Id": "RingInverseWeighting283",
+    "Mod": 21318,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 511,
+    "Id": "RingInverseWeighting300",
+    "Mod": 21284,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 512,
+    "Id": "RingInverseWeighting323",
+    "Mod": 21297,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 513,
+    "Id": "RingInverseWeighting360",
+    "Mod": 21336,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 514,
+    "Id": "RingInverseWeighting363",
+    "Mod": 21349,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 515,
+    "Id": "RingInverseWeighting423",
+    "Mod": 21323,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 516,
+    "Id": "RingInverseWeighting486",
+    "Mod": 21310,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 517,
+    "Id": "RingInverseWeighting501",
+    "Mod": 21363,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 518,
+    "Id": "RingInverseWeighting502",
+    "Mod": 21368,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 519,
+    "Id": "RingInverseWeighting503",
+    "Mod": 21361,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 520,
+    "Id": "RingInverseWeighting504",
+    "Mod": 21358,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 521,
+    "Id": "RingInverseWeighting505",
+    "Mod": 21364,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 522,
+    "Id": "RingInverseWeighting506",
+    "Mod": 21362,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 523,
+    "Id": "RingInverseWeighting507",
+    "Mod": 21367,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 524,
+    "Id": "RingInverseWeighting508",
+    "Mod": 21369,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 525,
+    "Id": "RingInverseWeighting509",
+    "Mod": 21365,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 526,
+    "Id": "RingInverseWeighting510",
+    "Mod": 21366,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 527,
+    "Id": "RingInverseWeighting511",
+    "Mod": 21359,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 528,
+    "Id": "RingInverseWeighting512",
+    "Mod": 21360,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 529,
+    "Id": "RingInverseWeighting513",
+    "Mod": 21370,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 530,
+    "Id": "BlightedMapMod1",
+    "Mod": 21372,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 531,
+    "Id": "BlightedMapMod2",
+    "Mod": 21373,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 532,
+    "Id": "BlightedMapMod3",
+    "Mod": 21374,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 533,
+    "Id": "BlightedMapMod4",
+    "Mod": 21375,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 534,
+    "Id": "BlightedMapMod5",
+    "Mod": 21376,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 535,
+    "Id": "BlightedMapMod6",
+    "Mod": 21378,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 536,
+    "Id": "BlightedMapMod6b",
+    "Mod": 21379,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 537,
+    "Id": "BlightedMapMod7",
+    "Mod": 21380,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 538,
+    "Id": "BlightedMapMod8",
+    "Mod": 21382,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 539,
+    "Id": "BlightedMapMod9",
+    "Mod": 21383,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 540,
+    "Id": "BlightedMapMod10",
+    "Mod": 21385,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 541,
+    "Id": "BlightedMapMod11",
+    "Mod": 21386,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 542,
+    "Id": "BlightedMapMod12",
+    "Mod": 21387,
+    "PassiveSkill": null
+  },
+  {
+    "_rid": 543,
+    "Id": "OffTreeAnoint1",
+    "Mod": null,
+    "PassiveSkill": 2895
+  },
+  {
+    "_rid": 544,
+    "Id": "OffTreeAnoint2",
+    "Mod": null,
+    "PassiveSkill": 2896
+  },
+  {
+    "_rid": 545,
+    "Id": "OffTreeAnoint3",
+    "Mod": null,
+    "PassiveSkill": 2897
+  },
+  {
+    "_rid": 546,
+    "Id": "OffTreeAnoint4",
+    "Mod": null,
+    "PassiveSkill": 2898
+  },
+  {
+    "_rid": 547,
+    "Id": "OffTreeAnoint5",
+    "Mod": null,
+    "PassiveSkill": 2899
+  },
+  {
+    "_rid": 548,
+    "Id": "OffTreeAnoint6",
+    "Mod": null,
+    "PassiveSkill": 2900
+  },
+  {
+    "_rid": 549,
+    "Id": "OffTreeAnoint7",
+    "Mod": null,
+    "PassiveSkill": 2901
+  },
+  {
+    "_rid": 550,
+    "Id": "OffTreeAnoint8",
+    "Mod": null,
+    "PassiveSkill": 2902
+  },
+  {
+    "_rid": 551,
+    "Id": "OffTreeAnoint9",
+    "Mod": null,
+    "PassiveSkill": 2903
+  },
+  {
+    "_rid": 552,
+    "Id": "OffTreeAnoint10",
+    "Mod": null,
+    "PassiveSkill": 2904
+  },
+  {
+    "_rid": 553,
+    "Id": "OffTreeAnoint11",
+    "Mod": null,
+    "PassiveSkill": 2905
+  },
+  {
+    "_rid": 554,
+    "Id": "OffTreeAnoint12",
+    "Mod": null,
+    "PassiveSkill": 2906
+  },
+  {
+    "_rid": 555,
+    "Id": "OffTreeAnoint13",
+    "Mod": null,
+    "PassiveSkill": 2907
+  },
+  {
+    "_rid": 556,
+    "Id": "OffTreeAnoint14",
+    "Mod": null,
+    "PassiveSkill": 2908
+  },
+  {
+    "_rid": 557,
+    "Id": "OffTreeAnoint15",
+    "Mod": null,
+    "PassiveSkill": 2909
+  },
+  {
+    "_rid": 558,
+    "Id": "OffTreeAnoint16",
+    "Mod": null,
+    "PassiveSkill": 2910
+  },
+  {
+    "_rid": 559,
+    "Id": "OffTreeAnoint17",
+    "Mod": null,
+    "PassiveSkill": 2911
+  },
+  {
+    "_rid": 560,
+    "Id": "OffTreeAnoint18",
+    "Mod": null,
+    "PassiveSkill": 2912
+  },
+  {
+    "_rid": 561,
+    "Id": "OffTreeAnoint19",
+    "Mod": null,
+    "PassiveSkill": 2892
+  },
+  {
+    "_rid": 562,
+    "Id": "OffTreeAnoint20",
+    "Mod": null,
+    "PassiveSkill": 2886
+  },
+  {
+    "_rid": 563,
+    "Id": "OffTreeAnoint21",
+    "Mod": null,
+    "PassiveSkill": 2885
+  },
+  {
+    "_rid": 564,
+    "Id": "OffTreeAnoint22",
+    "Mod": null,
+    "PassiveSkill": 2893
+  },
+  {
+    "_rid": 565,
+    "Id": "OffTreeAnoint23",
+    "Mod": null,
+    "PassiveSkill": 2891
+  },
+  {
+    "_rid": 566,
+    "Id": "OffTreeAnoint24",
+    "Mod": null,
+    "PassiveSkill": 2882
+  },
+  {
+    "_rid": 567,
+    "Id": "OffTreeAnoint25",
+    "Mod": null,
+    "PassiveSkill": 2884
+  },
+  {
+    "_rid": 568,
+    "Id": "OffTreeAnoint26",
+    "Mod": null,
+    "PassiveSkill": 2883
+  },
+  {
+    "_rid": 569,
+    "Id": "OffTreeAnoint27",
+    "Mod": null,
+    "PassiveSkill": 2889
+  },
+  {
+    "_rid": 570,
+    "Id": "OffTreeAnoint28",
+    "Mod": null,
+    "PassiveSkill": 2894
+  },
+  {
+    "_rid": 571,
+    "Id": "OffTreeAnoint29",
+    "Mod": null,
+    "PassiveSkill": 2888
+  },
+  {
+    "_rid": 572,
+    "Id": "OffTreeAnoint30",
+    "Mod": null,
+    "PassiveSkill": 2890
+  },
+  {
+    "_rid": 573,
+    "Id": "OffTreeAnoint31",
+    "Mod": null,
+    "PassiveSkill": 2913
+  }
+]

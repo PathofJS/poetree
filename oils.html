@@ -447,6 +447,21 @@
     </div>
 
     <script>
+        // Determine base path for GitHub Pages or local deployment
+        // For https://pathofjs.github.io/poetree/ → basePath is /poetree/
+        // For local testing → basePath is /
+        const getBasePath = () => {
+            const path = window.location.pathname;
+            // If pathname contains poetree, use /poetree/ as base
+            if (path.includes('/poetree/')) {
+                return '/poetree/';
+            }
+            // Otherwise assume root
+            return '/';
+        };
+        const basePath = getBasePath();
+        console.log(`🔧 Base path: ${basePath}`);
+        
         // Storage for data loaded from JSON files
         let oils = [];
         let blightCraftingItems = [];
@@ -610,17 +625,27 @@
         // Load all data from JSON files
         async function loadAllData() {
             try {
+                console.log(`📍 Base URL: ${window.location.href}`);
+                
                 // Load oils from baseitemtypes.json (filter for RIDs 3795-3810)
-                const baseItemsResponse = await fetch('data/baseitemtypes.json');
+                console.log('📦 Loading data/baseitemtypes.json...');
+                const baseItemsResponse = await fetch(basePath + 'data/baseitemtypes.json');
+                if (!baseItemsResponse.ok) throw new Error(`HTTP ${baseItemsResponse.status}: ${baseItemsResponse.statusText}`);
                 const baseItemsData = await baseItemsResponse.json();
                 oils = baseItemsData.filter(item => item._rid >= 3795 && item._rid <= 3810);
+                console.log(`✓ Loaded ${oils.length} oils`);
 
                 // Load crafting items
-                const craftingItemsResponse = await fetch('data/blightcraftingitems.json');
+                console.log('📦 Loading data/blightcraftingitems.json...');
+                const craftingItemsResponse = await fetch(basePath + 'data/blightcraftingitems.json');
+                if (!craftingItemsResponse.ok) throw new Error(`HTTP ${craftingItemsResponse.status}: ${craftingItemsResponse.statusText}`);
                 blightCraftingItems = await craftingItemsResponse.json();
+                console.log(`✓ Loaded ${blightCraftingItems.length} crafting items`);
 
                 // Load recipes and results
-                const recipesResponse = await fetch('data/blightcraftingrecipes.json');
+                console.log('📦 Loading data/blightcraftingrecipes.json...');
+                const recipesResponse = await fetch(basePath + 'data/blightcraftingrecipes.json');
+                if (!recipesResponse.ok) throw new Error(`HTTP ${recipesResponse.status}: ${recipesResponse.statusText}`);
                 const recipesData = await recipesResponse.json();
                 allRecipes = recipesData.map(r => ({
                     _rid: r._rid || 0,
@@ -629,17 +654,23 @@
                     result: r.BlightCraftingResultsKey || 0,
                     type: r.BlightCraftingTypesKey || 0
                 }));
+                console.log(`✓ Loaded ${allRecipes.length} recipes`);
 
-                const resultsResponse = await fetch('data/blightcraftingresults.json');
+                console.log('📦 Loading data/blightcraftingresults.json...');
+                const resultsResponse = await fetch(basePath + 'data/blightcraftingresults.json');
+                if (!resultsResponse.ok) throw new Error(`HTTP ${resultsResponse.status}: ${resultsResponse.statusText}`);
                 const resultsData = await resultsResponse.json();
                 allResults = resultsData.map(r => ({
                     _rid: r._rid || 0,
                     PassiveSkill: r.PassiveSkill || null,
                     Mod: r.Mod || null
                 }));
+                console.log(`✓ Loaded ${allResults.length} results`);
 
                 // Load passive skills with descriptions
-                const skillsResponse = await fetch('data/passiveskills.json');
+                console.log('📦 Loading data/passiveskills.json...');
+                const skillsResponse = await fetch(basePath + 'data/passiveskills.json');
+                if (!skillsResponse.ok) throw new Error(`HTTP ${skillsResponse.status}: ${skillsResponse.statusText}`);
                 const skillsData = await skillsResponse.json();
                 skillsData.forEach(skill => {
                     if (skill._rid && skill.Name) {
@@ -657,18 +688,24 @@
                         };
                     }
                 });
+                console.log(`✓ Loaded ${Object.keys(passiveSkillsMap).length} passive skills`);
 
                 // Load stats mapping
-                const statsResponse = await fetch('data/stats.json');
+                console.log('📦 Loading data/stats.json...');
+                const statsResponse = await fetch(basePath + 'data/stats.json');
+                if (!statsResponse.ok) throw new Error(`HTTP ${statsResponse.status}: ${statsResponse.statusText}`);
                 const statsData = await statsResponse.json();
                 statsData.forEach(stat => {
                     if (stat._rid && stat.Id) {
                         statsMap[stat._rid] = stat.Id;
                     }
                 });
+                console.log(`✓ Loaded ${Object.keys(statsMap).length} stat mappings`);
 
                 // Load stat descriptions (gzip compressed, UTF-16LE)
-                const descResponse = await fetch('metadata/statdescriptions/stat_descriptions.txt.gz');
+                console.log('📦 Loading metadata/statdescriptions/stat_descriptions.txt.gz...');
+                const descResponse = await fetch(basePath + 'metadata/statdescriptions/stat_descriptions.txt.gz');
+                if (!descResponse.ok) throw new Error(`HTTP ${descResponse.status}: ${descResponse.statusText}`);
                 const descBuffer = await descResponse.arrayBuffer();
                 
                 // Decompress using pako
@@ -676,11 +713,15 @@
                 const decoder = new TextDecoder('utf-16le');
                 const descText = decoder.decode(decompressed);
                 parseStatDescriptions(descText);
+                console.log(`✓ Loaded and decompressed stat descriptions`);
 
                 // Load mods with full data
-                const modsResponse = await fetch('data/mods.json');
+                console.log('📦 Loading data/mods.json...');
+                const modsResponse = await fetch(basePath + 'data/mods.json');
+                if (!modsResponse.ok) throw new Error(`HTTP ${modsResponse.status}: ${modsResponse.statusText}`);
                 const modsData = await modsResponse.json();
                 allMods = modsData;
+                console.log(`✓ Loaded ${allMods.length} mods`);
                 
                 console.log(`Before processing mods: statsMap has ${Object.keys(statsMap).length} entries, statDescriptionsMap has ${Object.keys(statDescriptionsMap).length} entries`);
                 if (statsMap[993]) console.log(`  statsMap[993] = "${statsMap[993]}"`);
@@ -734,9 +775,24 @@
                     }
                 });
 
-                console.log(`Loaded ${oils.length} oils, ${blightCraftingItems.length} crafting items, ${allRecipes.length} recipes, ${allResults.length} results, ${Object.keys(passiveSkillsMap).length} passive skills, ${Object.keys(statsMap).length} stats, ${Object.keys(statDescriptionsMap).length} stat descriptions, ${Object.keys(modsMap).length} mods`);
+                console.log(`✅ SUCCESS: Loaded ${oils.length} oils, ${blightCraftingItems.length} crafting items, ${allRecipes.length} recipes, ${allResults.length} results, ${Object.keys(passiveSkillsMap).length} passive skills, ${Object.keys(statsMap).length} stats, ${Object.keys(statDescriptionsMap).length} stat descriptions, ${Object.keys(modsMap).length} mods`);
             } catch (error) {
-                console.error('Error loading JSON files:', error);
+                console.error('❌ ERROR loading data files:', error);
+                console.error('Failed at URL path - check if folder structure is correct (data/, metadata/, art/)');
+                document.body.innerHTML = `<div style="background: #1a1a1a; color: #ff6b6b; padding: 20px; font-family: monospace; white-space: pre-wrap;">
+                    ❌ FAILED TO LOAD DATA FILES
+                    
+                    Error: ${error.message}
+                    
+                    Check the browser console (F12) for detailed file load attempts.
+                    
+                    Possible causes:
+                    1. Files are not in the correct folder structure (data/, metadata/, art/)
+                    2. If using GitHub Pages with a subdirectory repo (/repo-name/), paths need to be adjusted
+                    3. CORS issues - GitHub Pages serves files correctly by default
+                    
+                    Console logs above show which file failed to load.
+                </div>`;
             }
         }
 
@@ -863,7 +919,7 @@
                 
                 if (imagePath) {
                     const img = document.createElement('img');
-                    img.src = `art/2ditems/currency/oils/${imagePath}`;
+                    img.src = `${basePath}art/2ditems/currency/oils/${imagePath}`;
                     img.alt = oil.Name;
                     img.style.width = '32px';
                     img.style.height = '32px';
@@ -1000,7 +1056,7 @@
                             
                             if (imagePath) {
                                 const img = document.createElement('img');
-                                img.src = `art/2ditems/currency/oils/${imagePath}`;
+                                img.src = `${basePath}art/2ditems/currency/oils/${imagePath}`;
                                 img.alt = oil.Name;
                                 img.style.width = '24px';
                                 img.style.height = '24px';
